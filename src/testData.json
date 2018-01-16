@@ -1,0 +1,3561 @@
+[
+  {
+    "calEvent": {
+      "orgType": "Public Agency",
+      "startDate": "2017-09-21T04:00:00.000Z",
+      "thumbImage": {
+        "fileSize": 46076,
+        "fileType": "image/png",
+        "binId": "8-p__2L8EaptKp313ef1ZQ",
+        "fileName": "EatonsGoesToWar2_th.png",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/EatonsGoesToWar2_th_8-p__2L8EaptKp313ef1ZQ.png"
+      },
+      "startDateTime": "2017-09-21T04:00:00.000Z",
+      "timeInfo": "See website for hours of operation.",
+      "orgAddress": "55 John Street",
+      "terms": "agree",
+      "endDate": "2018-01-31T05:00:00.000Z",
+      "frequency": "once",
+      "partnerType": "none",
+      "eventWebsite": "http://www.toronto.ca/mackenziehouse",
+      "orgPhone": "4163380045",
+      "dates": [
+        {
+          "startDateTime": "2017-09-21T04:00:00.000Z",
+          "allDay": true,
+          "endDateTime": "2018-01-31T05:00:00.000Z"
+        }
+      ],
+      "eventEmail": "machouse@toronto.ca",
+      "locations": [
+        {
+          "id": "0f04ac45-9801-d250-c190-f3d8310579bf",
+          "displayAddressInd": false,
+          "coords": {
+            "lng": -79.37844949999999,
+            "lat": 43.65566640000001
+          },
+          "address": "82 Bond St, Toronto, ON M5B 1X2, Canada",
+          "geoCoded": true,
+          "locationType": [
+            {
+              "type": "marker"
+            }
+          ],
+          "locationName": "Mackenzie House",
+          "type": "marker"
+        }
+      ],
+      "description": "The First World War transformed Canada. During that war, 3,327 Eaton's employees enlisted to fight. Each time one of them was shipped overseas, a photo was displayed prominently in the Toronto store just steps from Mackenzie House. 2,000 of these portraits survived and have become part of the T. Eaton Company records at the Archives of Ontario. In commemoration of Canada's 150th birthday, Mackenzie House staff have been actively searching out accounts of the lives of these men and urging the public to come forward to share their stories of the soldiers with us. Who were these men and their families? Come to our exhibit and find out. This exhibit is presented as part of TO Canada with Love, the City of Toronto's year-long program of celebrations, commemorations and exhibitions honouring Canada's 150th birthday.",
+      "orgEmail": "aflahiv@toronto.ca",
+      "otherCostInfo": "Included with regular admission. Children ages 4 and under are free.",
+      "features": {
+        "Public Washrooms": true
+      },
+      "categoryString": "Arts/Exhibits,Canada 150,History,YYZ - HAC",
+      "themeString": "",
+      "isWidgetEvent": true,
+      "accessibility": "none",
+      "allDay": true,
+      "theme": [],
+      "image": {
+        "fileSize": 381950,
+        "fileType": "image/jpeg",
+        "binId": "Bqq61wZXhrvLD8I78Vi8nw",
+        "fileName": "EatonsGoesToWar2.jpg",
+        "altText": "Black and white photographs of World War One soldiers",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/EatonsGoesToWar2_Bqq61wZXhrvLD8I78Vi8nw.jpg"
+      },
+      "reservationsRequired": "No",
+      "recId": "3jeRatVUj4RxWF3invJu0w",
+      "orgName": "Museums and Heritage Services",
+      "cost": {
+        "child": 2.65,
+        "student": 3.54,
+        "youth": 3.54,
+        "adult": 6.19,
+        "senior": 3.54
+      },
+      "endDateTime": "2018-01-31T05:00:00.000Z",
+      "category": [
+        {
+          "name": "Arts/Exhibits"
+        },
+        {
+          "name": "Canada 150"
+        },
+        {
+          "name": "History"
+        },
+        {
+          "name": "YYZ - HAC"
+        }
+      ],
+      "eventPhone": "4163926915",
+      "shortDescription": "During the WWI, 3,327 Eaton's employees enlisted to fight and each had a portrait displayed in the Toronto store. Explore this unique exhibit to learn more about the personal stories of some of these employees.",
+      "contactName": "Alice Flahive",
+      "admin": {
+        "reviewerComments": "GG - 12/12/16   KS 12/13/2016&#10;CP - 04/03/2017",
+        "updateTimestamp": "2018-01-04T14:28:24.645Z",
+        "newsletterCategory": [
+          {
+            "value": "COT Historic Sites"
+          }
+        ],
+        "includeInNewsletter": true,
+        "newsletterSubcategory": [],
+        "featuredEvent": "false",
+        "approvedTimestamp": "2016-12-13T16:09:40.929Z",
+        "updatedBy": "dsugden"
+      },
+      "freeEvent": "No",
+      "eventName": "Eaton's Goes to War: Family, Memory &amp; Meaning"
+    }
+  },
+  {
+    "calEvent": {
+      "orgType": "Public Agency",
+      "startDate": "2017-12-10T05:00:00.000Z",
+      "thumbImage": {
+        "fileSize": 42635,
+        "fileType": "image/png",
+        "binId": "Wq3RyPHDv6qXa_8eSZfNOw",
+        "fileName": "InnovationCirca1867_th.png",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/InnovationCirca1867_th_Wq3RyPHDv6qXa_8eSZfNOw.png"
+      },
+      "startDateTime": "2017-12-10T05:00:00.000Z",
+      "timeInfo": "See website for hours of operation.",
+      "orgAddress": "55 John Street",
+      "terms": "agree",
+      "endDate": "2018-03-18T04:00:00.000Z",
+      "frequency": "once",
+      "partnerType": "supportedby",
+      "eventWebsite": "http://www.toronto.ca/colbornelodge",
+      "orgPhone": "4163380045",
+      "dates": [
+        {
+          "startDateTime": "2017-12-10T05:00:00.000Z",
+          "allDay": true,
+          "endDateTime": "2018-03-18T04:00:00.000Z"
+        }
+      ],
+      "eventEmail": "clodge@toronto.ca",
+      "locations": [
+        {
+          "id": "4653341e-a692-42c9-f420-77345e3b8f28",
+          "displayAddressInd": true,
+          "coords": {
+            "lng": -79.46069139999997,
+            "lat": 43.6405624
+          },
+          "$$hashKey": "object:544",
+          "address": "11 Colborne Lodge Dr, Toronto, ON M6R, Canada",
+          "geoCoded": true,
+          "locationType": [
+            {
+              "type": "marker"
+            }
+          ],
+          "locationName": "Colborne Lodge",
+          "type": "marker"
+        }
+      ],
+      "description": "An exhibit highlighting new and emerging Canadian inventions circa 1867.  Through the lens of Canadian patent grants, the exhibit explores the mindset of the Confederation generation. Discover Canadian inventors' designs for new technologies or how original concepts improved upon earlier patents &#8211; improving function, productivity and quality of life. The exhibit also brings home a plethora of Architect and City Engineer John G. Howard's designs, papers, books and tools &#8211; so his home now reflects the active mind of one of Toronto's most important early city builders.&#10;&#10;This exhibit is presented as part of TO Canada with Love, the City of Toronto's year-long program of celebrations, commemorations and exhibitions honouring Canada's 150th birthday.",
+      "orgEmail": "aflahiv@toronto.ca",
+      "otherCostInfo": "",
+      "features": {
+        "Public Washrooms": true,
+        "Free Parking": true
+      },
+      "categoryString": "Canada 150,MomenTO,YYZ - HAC",
+      "themeString": "",
+      "accessibility": "none",
+      "partnerName": "MomenTO",
+      "allDay": true,
+      "theme": [],
+      "image": {
+        "fileSize": 159427,
+        "fileType": "image/jpeg",
+        "binId": "M2CafusqYo8UB9S2aRBikQ",
+        "fileName": "InnovationCirca1867.jpg",
+        "altText": "Innovation Circa 1867",
+        "credit": "",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/InnovationCirca1867_M2CafusqYo8UB9S2aRBikQ.jpg"
+      },
+      "reservationsRequired": "No",
+      "recId": "_A6a6xYt_W8vbbakIgqbKA",
+      "orgName": "Museums and Heritage Services",
+      "endDateTime": "2018-03-18T04:00:00.000Z",
+      "cost": {
+        "child": 2.65,
+        "adult": 6.19,
+        "youth": 3.54,
+        "senior": 3.54
+      },
+      "category": [
+        {
+          "name": "Canada 150"
+        },
+        {
+          "name": "MomenTO"
+        },
+        {
+          "name": "YYZ - HAC"
+        }
+      ],
+      "eventPhone": "4163926916",
+      "admin": {
+        "reviewerComments": "DP - 12/07/16 - could use more information about admission prices when updated.&#10;CP - 04/03/2017",
+        "updateTimestamp": "2017-12-13T17:00:54.900Z",
+        "newsletterCategory": [],
+        "includeInNewsletter": false,
+        "newsletterSubcategory": [],
+        "featuredEvent": "pending",
+        "approvedTimestamp": "2016-12-07T20:57:20.708Z",
+        "updatedBy": "cpatter"
+      },
+      "contactName": "Alice Flahive",
+      "freeEvent": "No",
+      "eventName": "Innovation Circa 1867"
+    }
+  },
+  {
+    "calEvent": {
+      "orgType": "Non-Profit",
+      "startDate": "2018-03-04T06:00:00.000Z",
+      "thumbImage": {
+        "fileSize": 64278,
+        "fileType": "image/png",
+        "binId": "m6YLRl4xwDctkicTPWkKag",
+        "fileName": "PDAC_picture_th.png",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/PDAC_picture_th_m6YLRl4xwDctkicTPWkKag.png"
+      },
+      "orgAddress": "135 King Street East, Toronto, Ontario M5C 1G6",
+      "terms": "agree",
+      "endDate": "2018-03-08T06:00:00.000Z",
+      "frequency": "dates",
+      "partnerType": "none",
+      "eventWebsite": "http://www.pdac.ca/convention",
+      "orgPhone": "4163621969",
+      "dates": [
+        {
+          "$$hashKey": "object:37411",
+          "startDateTime": "2018-03-04T12:00:00.000Z",
+          "description": "Registration Desk Hours",
+          "endDateTime": "2018-03-04T23:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:37412",
+          "startDateTime": "2018-03-05T15:00:00.000Z",
+          "endDateTime": "2018-03-05T22:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:37413",
+          "startDateTime": "2018-03-06T15:00:00.000Z",
+          "endDateTime": "2018-03-06T22:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:37414",
+          "startDateTime": "2018-03-07T15:00:00.000Z",
+          "endDateTime": "2018-03-07T22:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:37415",
+          "startDateTime": "2018-03-08T14:00:00.000Z",
+          "endDateTime": "2018-03-08T17:00:00.000Z"
+        }
+      ],
+      "locations": [
+        {
+          "id": "677efc1a-45df-1241-5667-89b0b540da26",
+          "coords": {
+            "lng": -79.38508460000003,
+            "lat": 43.6430065
+          },
+          "$$hashKey": "object:37348",
+          "address": "222 Bremner Blvd, Toronto, ON M5V 2T6, Canada",
+          "geoCoded": true,
+          "locationType": [
+            {
+              "type": "marker"
+            }
+          ],
+          "locationName": "Metro Toronto Convention Centre - South Building",
+          "type": "marker"
+        }
+      ],
+      "eventEmail": "info@pdac.ca",
+      "description": "Where the world&#8217;s mineral &amp; finance industry meets. &#10;&#10;The Prospectors &amp; Developers Association of Canada&#8217;s (PDAC) International Convention, Trade Show &amp; Investors Exchange is the world&#8217;s leading convention for people, companies and organizations in, or connected with, mineral exploration and finance. In addition to meeting over 1,000 exhibitors, 3,800 investors and 24,000 attendees from 130 countries, you can also attend technical sessions, short courses and networking events. The four-day annual convention held in Toronto, Canada, has grown in size, stature and influence since it began in 1932 and today is the event of choice for the world&#8217;s mineral and finance industries.",
+      "otherCostInfo": "Please visit website for cost information.",
+      "orgEmail": "info@pdac.ca",
+      "features": {
+        "Paid Parking": true,
+        "Onsite Food and Beverages": true,
+        "Public Washrooms": true
+      },
+      "categoryString": "Seminars/Workshops",
+      "themeString": "",
+      "accessibility": "full",
+      "theme": [],
+      "image": {
+        "fileSize": 144943,
+        "fileType": "image/jpeg",
+        "binId": "DpXNMJ_V149NPll7mPg2OA",
+        "fileName": "PDAC_picture.jpg",
+        "altText": "PDAC Convention picture",
+        "credit": "www.envisiondigitalphoto.com",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/PDAC_picture_DpXNMJ_V149NPll7mPg2OA.jpg"
+      },
+      "reservationsRequired": "No",
+      "recId": "mld56MHFdQPgWEQb9541OA",
+      "orgName": "The Prospectors &amp; Developers Association of Canada",
+      "expectedAvg": 25000,
+      "category": [
+        {
+          "name": "Seminars/Workshops"
+        }
+      ],
+      "eventPhone": "4163621969",
+      "shortDescription": "Where the world&#8217;s mineral &amp; finance industry meets.",
+      "contactName": "Elena Mazur",
+      "admin": {
+        "reviewerComments": "DS051017",
+        "updateTimestamp": "2017-05-12T14:10:32.130Z",
+        "newsletterCategory": [
+          {
+            "value": "Festivals and Events"
+          }
+        ],
+        "includeInNewsletter": true,
+        "newsletterSubcategory": [],
+        "featuredEvent": "false",
+        "approvedTimestamp": "2017-05-12T14:10:32.131Z",
+        "approvedBy": "msilver2",
+        "updatedBy": "msilver2"
+      },
+      "freeEvent": "No",
+      "eventName": "PDAC 2018"
+    }
+  },
+  {
+    "calEvent": {
+      "orgType": "Other",
+      "startDate": "2017-06-29T04:00:00.000Z",
+      "thumbImage": {
+        "fileSize": 75581,
+        "fileType": "image/png",
+        "binId": "uGrfbvWzmNXjEqdtntEb9g",
+        "fileName": "RosalieFavell copy_th.png",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/RosalieFavell copy_th_uGrfbvWzmNXjEqdtntEb9g.png"
+      },
+      "timeInfo": "Opening night preview is June 28, 6:00pm.",
+      "weeklyDates": [
+        {
+          "startTime": "2017-06-06T14:30:00.000Z",
+          "$$hashKey": "object:19693",
+          "weekDay": [
+            {
+              "day": "Tuesday"
+            }
+          ],
+          "description": "",
+          "endTime": "2017-06-06T21:00:00.000Z"
+        },
+        {
+          "startTime": "2017-06-06T14:30:00.000Z",
+          "$$hashKey": "object:19694",
+          "weekDay": [
+            {
+              "day": "Wednesday"
+            }
+          ],
+          "endTime": "2017-06-07T01:00:00.000Z"
+        },
+        {
+          "startTime": "2017-06-06T14:30:00.000Z",
+          "$$hashKey": "object:19695",
+          "weekDay": [
+            {
+              "day": "Thursday"
+            }
+          ],
+          "endTime": "2017-06-06T21:00:00.000Z"
+        },
+        {
+          "startTime": "2017-06-06T14:30:00.000Z",
+          "$$hashKey": "object:19696",
+          "weekDay": [
+            {
+              "day": "Friday"
+            }
+          ],
+          "endTime": "2017-06-06T21:00:00.000Z"
+        },
+        {
+          "startTime": "2017-06-06T14:30:00.000Z",
+          "$$hashKey": "object:19697",
+          "weekDay": [
+            {
+              "day": "Saturday"
+            }
+          ],
+          "endTime": "2017-06-06T21:30:00.000Z"
+        },
+        {
+          "startTime": "2017-06-06T14:30:00.000Z",
+          "$$hashKey": "object:19698",
+          "weekDay": [
+            {
+              "day": "Sunday"
+            }
+          ],
+          "endTime": "2017-06-06T21:30:00.000Z"
+        }
+      ],
+      "orgAddress": "847 Adelaide Street West",
+      "terms": "agree",
+      "endDate": "2018-02-18T05:00:00.000Z",
+      "frequency": "weekly",
+      "partnerType": "presentedby",
+      "eventWebsite": "http://www.ago.net/every-now-then-reframing-nationhood",
+      "orgPhone": "4166285613",
+      "dates": [
+        {
+          "startDateTime": "2017-07-04T14:30:00.000Z",
+          "endDateTime": "2017-07-04T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-11T14:30:00.000Z",
+          "endDateTime": "2017-07-11T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-18T14:30:00.000Z",
+          "endDateTime": "2017-07-18T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-25T14:30:00.000Z",
+          "endDateTime": "2017-07-25T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-01T14:30:00.000Z",
+          "endDateTime": "2017-08-01T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-08T14:30:00.000Z",
+          "endDateTime": "2017-08-08T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-15T14:30:00.000Z",
+          "endDateTime": "2017-08-15T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-22T14:30:00.000Z",
+          "endDateTime": "2017-08-22T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-29T14:30:00.000Z",
+          "endDateTime": "2017-08-29T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-05T14:30:00.000Z",
+          "endDateTime": "2017-09-05T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-12T14:30:00.000Z",
+          "endDateTime": "2017-09-12T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-19T14:30:00.000Z",
+          "endDateTime": "2017-09-19T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-26T14:30:00.000Z",
+          "endDateTime": "2017-09-26T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-03T14:30:00.000Z",
+          "endDateTime": "2017-10-03T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-10T14:30:00.000Z",
+          "endDateTime": "2017-10-10T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-17T14:30:00.000Z",
+          "endDateTime": "2017-10-17T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-24T14:30:00.000Z",
+          "endDateTime": "2017-10-24T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-31T14:30:00.000Z",
+          "endDateTime": "2017-10-31T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-07T15:30:00.000Z",
+          "endDateTime": "2017-11-07T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-14T15:30:00.000Z",
+          "endDateTime": "2017-11-14T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-21T15:30:00.000Z",
+          "endDateTime": "2017-11-21T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-28T15:30:00.000Z",
+          "endDateTime": "2017-11-28T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-05T15:30:00.000Z",
+          "endDateTime": "2017-12-05T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-12T15:30:00.000Z",
+          "endDateTime": "2017-12-12T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-19T15:30:00.000Z",
+          "endDateTime": "2017-12-19T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-26T15:30:00.000Z",
+          "endDateTime": "2017-12-26T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-02T15:30:00.000Z",
+          "endDateTime": "2018-01-02T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-09T15:30:00.000Z",
+          "endDateTime": "2018-01-09T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-16T15:30:00.000Z",
+          "endDateTime": "2018-01-16T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-23T15:30:00.000Z",
+          "endDateTime": "2018-01-23T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-30T15:30:00.000Z",
+          "endDateTime": "2018-01-30T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-06T15:30:00.000Z",
+          "endDateTime": "2018-02-06T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-13T15:30:00.000Z",
+          "endDateTime": "2018-02-13T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-05T14:30:00.000Z",
+          "endDateTime": "2017-07-06T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-12T14:30:00.000Z",
+          "endDateTime": "2017-07-13T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-19T14:30:00.000Z",
+          "endDateTime": "2017-07-20T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-26T14:30:00.000Z",
+          "endDateTime": "2017-07-27T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-02T14:30:00.000Z",
+          "endDateTime": "2017-08-03T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-09T14:30:00.000Z",
+          "endDateTime": "2017-08-10T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-16T14:30:00.000Z",
+          "endDateTime": "2017-08-17T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-23T14:30:00.000Z",
+          "endDateTime": "2017-08-24T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-30T14:30:00.000Z",
+          "endDateTime": "2017-08-31T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-06T14:30:00.000Z",
+          "endDateTime": "2017-09-07T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-13T14:30:00.000Z",
+          "endDateTime": "2017-09-14T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-20T14:30:00.000Z",
+          "endDateTime": "2017-09-21T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-27T14:30:00.000Z",
+          "endDateTime": "2017-09-28T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-04T14:30:00.000Z",
+          "endDateTime": "2017-10-05T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-11T14:30:00.000Z",
+          "endDateTime": "2017-10-12T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-18T14:30:00.000Z",
+          "endDateTime": "2017-10-19T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-25T14:30:00.000Z",
+          "endDateTime": "2017-10-26T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-01T14:30:00.000Z",
+          "endDateTime": "2017-11-02T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-08T15:30:00.000Z",
+          "endDateTime": "2017-11-09T02:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-15T15:30:00.000Z",
+          "endDateTime": "2017-11-16T02:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-22T15:30:00.000Z",
+          "endDateTime": "2017-11-23T02:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-29T15:30:00.000Z",
+          "endDateTime": "2017-11-30T02:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-06T15:30:00.000Z",
+          "endDateTime": "2017-12-07T02:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-13T15:30:00.000Z",
+          "endDateTime": "2017-12-14T02:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-20T15:30:00.000Z",
+          "endDateTime": "2017-12-21T02:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-27T15:30:00.000Z",
+          "endDateTime": "2017-12-28T02:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-03T15:30:00.000Z",
+          "endDateTime": "2018-01-04T02:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-10T15:30:00.000Z",
+          "endDateTime": "2018-01-11T02:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-17T15:30:00.000Z",
+          "endDateTime": "2018-01-18T02:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-24T15:30:00.000Z",
+          "endDateTime": "2018-01-25T02:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-31T15:30:00.000Z",
+          "endDateTime": "2018-02-01T02:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-07T15:30:00.000Z",
+          "endDateTime": "2018-02-08T02:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-14T15:30:00.000Z",
+          "endDateTime": "2018-02-15T02:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-29T14:30:00.000Z",
+          "endDateTime": "2017-06-29T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-06T14:30:00.000Z",
+          "endDateTime": "2017-07-06T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-13T14:30:00.000Z",
+          "endDateTime": "2017-07-13T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-20T14:30:00.000Z",
+          "endDateTime": "2017-07-20T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-27T14:30:00.000Z",
+          "endDateTime": "2017-07-27T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-03T14:30:00.000Z",
+          "endDateTime": "2017-08-03T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-10T14:30:00.000Z",
+          "endDateTime": "2017-08-10T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-17T14:30:00.000Z",
+          "endDateTime": "2017-08-17T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-24T14:30:00.000Z",
+          "endDateTime": "2017-08-24T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-31T14:30:00.000Z",
+          "endDateTime": "2017-08-31T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-07T14:30:00.000Z",
+          "endDateTime": "2017-09-07T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-14T14:30:00.000Z",
+          "endDateTime": "2017-09-14T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-21T14:30:00.000Z",
+          "endDateTime": "2017-09-21T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-28T14:30:00.000Z",
+          "endDateTime": "2017-09-28T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-05T14:30:00.000Z",
+          "endDateTime": "2017-10-05T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-12T14:30:00.000Z",
+          "endDateTime": "2017-10-12T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-19T14:30:00.000Z",
+          "endDateTime": "2017-10-19T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-26T14:30:00.000Z",
+          "endDateTime": "2017-10-26T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-02T14:30:00.000Z",
+          "endDateTime": "2017-11-02T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-09T15:30:00.000Z",
+          "endDateTime": "2017-11-09T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-16T15:30:00.000Z",
+          "endDateTime": "2017-11-16T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-23T15:30:00.000Z",
+          "endDateTime": "2017-11-23T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-30T15:30:00.000Z",
+          "endDateTime": "2017-11-30T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-07T15:30:00.000Z",
+          "endDateTime": "2017-12-07T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-14T15:30:00.000Z",
+          "endDateTime": "2017-12-14T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-21T15:30:00.000Z",
+          "endDateTime": "2017-12-21T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-28T15:30:00.000Z",
+          "endDateTime": "2017-12-28T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-04T15:30:00.000Z",
+          "endDateTime": "2018-01-04T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-11T15:30:00.000Z",
+          "endDateTime": "2018-01-11T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-18T15:30:00.000Z",
+          "endDateTime": "2018-01-18T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-25T15:30:00.000Z",
+          "endDateTime": "2018-01-25T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-01T15:30:00.000Z",
+          "endDateTime": "2018-02-01T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-08T15:30:00.000Z",
+          "endDateTime": "2018-02-08T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-15T15:30:00.000Z",
+          "endDateTime": "2018-02-15T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-30T14:30:00.000Z",
+          "endDateTime": "2017-06-30T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-07T14:30:00.000Z",
+          "endDateTime": "2017-07-07T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-14T14:30:00.000Z",
+          "endDateTime": "2017-07-14T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-21T14:30:00.000Z",
+          "endDateTime": "2017-07-21T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-28T14:30:00.000Z",
+          "endDateTime": "2017-07-28T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-04T14:30:00.000Z",
+          "endDateTime": "2017-08-04T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-11T14:30:00.000Z",
+          "endDateTime": "2017-08-11T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-18T14:30:00.000Z",
+          "endDateTime": "2017-08-18T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-25T14:30:00.000Z",
+          "endDateTime": "2017-08-25T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-01T14:30:00.000Z",
+          "endDateTime": "2017-09-01T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-08T14:30:00.000Z",
+          "endDateTime": "2017-09-08T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-15T14:30:00.000Z",
+          "endDateTime": "2017-09-15T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-22T14:30:00.000Z",
+          "endDateTime": "2017-09-22T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-29T14:30:00.000Z",
+          "endDateTime": "2017-09-29T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-06T14:30:00.000Z",
+          "endDateTime": "2017-10-06T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-13T14:30:00.000Z",
+          "endDateTime": "2017-10-13T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-20T14:30:00.000Z",
+          "endDateTime": "2017-10-20T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-27T14:30:00.000Z",
+          "endDateTime": "2017-10-27T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-03T14:30:00.000Z",
+          "endDateTime": "2017-11-03T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-10T15:30:00.000Z",
+          "endDateTime": "2017-11-10T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-17T15:30:00.000Z",
+          "endDateTime": "2017-11-17T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-24T15:30:00.000Z",
+          "endDateTime": "2017-11-24T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-01T15:30:00.000Z",
+          "endDateTime": "2017-12-01T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-08T15:30:00.000Z",
+          "endDateTime": "2017-12-08T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-15T15:30:00.000Z",
+          "endDateTime": "2017-12-15T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-22T15:30:00.000Z",
+          "endDateTime": "2017-12-22T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-29T15:30:00.000Z",
+          "endDateTime": "2017-12-29T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-05T15:30:00.000Z",
+          "endDateTime": "2018-01-05T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-12T15:30:00.000Z",
+          "endDateTime": "2018-01-12T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-19T15:30:00.000Z",
+          "endDateTime": "2018-01-19T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-26T15:30:00.000Z",
+          "endDateTime": "2018-01-26T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-02T15:30:00.000Z",
+          "endDateTime": "2018-02-02T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-09T15:30:00.000Z",
+          "endDateTime": "2018-02-09T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-16T15:30:00.000Z",
+          "endDateTime": "2018-02-16T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-01T14:30:00.000Z",
+          "endDateTime": "2017-07-01T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-08T14:30:00.000Z",
+          "endDateTime": "2017-07-08T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-15T14:30:00.000Z",
+          "endDateTime": "2017-07-15T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-22T14:30:00.000Z",
+          "endDateTime": "2017-07-22T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-29T14:30:00.000Z",
+          "endDateTime": "2017-07-29T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-05T14:30:00.000Z",
+          "endDateTime": "2017-08-05T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-12T14:30:00.000Z",
+          "endDateTime": "2017-08-12T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-19T14:30:00.000Z",
+          "endDateTime": "2017-08-19T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-26T14:30:00.000Z",
+          "endDateTime": "2017-08-26T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-02T14:30:00.000Z",
+          "endDateTime": "2017-09-02T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-09T14:30:00.000Z",
+          "endDateTime": "2017-09-09T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-16T14:30:00.000Z",
+          "endDateTime": "2017-09-16T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-23T14:30:00.000Z",
+          "endDateTime": "2017-09-23T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-30T14:30:00.000Z",
+          "endDateTime": "2017-09-30T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-07T14:30:00.000Z",
+          "endDateTime": "2017-10-07T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-14T14:30:00.000Z",
+          "endDateTime": "2017-10-14T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-21T14:30:00.000Z",
+          "endDateTime": "2017-10-21T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-28T14:30:00.000Z",
+          "endDateTime": "2017-10-28T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-04T14:30:00.000Z",
+          "endDateTime": "2017-11-04T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-11T15:30:00.000Z",
+          "endDateTime": "2017-11-11T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-18T15:30:00.000Z",
+          "endDateTime": "2017-11-18T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-25T15:30:00.000Z",
+          "endDateTime": "2017-11-25T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-02T15:30:00.000Z",
+          "endDateTime": "2017-12-02T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-09T15:30:00.000Z",
+          "endDateTime": "2017-12-09T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-16T15:30:00.000Z",
+          "endDateTime": "2017-12-16T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-23T15:30:00.000Z",
+          "endDateTime": "2017-12-23T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-30T15:30:00.000Z",
+          "endDateTime": "2017-12-30T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-06T15:30:00.000Z",
+          "endDateTime": "2018-01-06T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-13T15:30:00.000Z",
+          "endDateTime": "2018-01-13T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-20T15:30:00.000Z",
+          "endDateTime": "2018-01-20T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-27T15:30:00.000Z",
+          "endDateTime": "2018-01-27T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-03T15:30:00.000Z",
+          "endDateTime": "2018-02-03T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-10T15:30:00.000Z",
+          "endDateTime": "2018-02-10T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-17T15:30:00.000Z",
+          "endDateTime": "2018-02-17T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-02T14:30:00.000Z",
+          "endDateTime": "2017-07-02T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-09T14:30:00.000Z",
+          "endDateTime": "2017-07-09T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-16T14:30:00.000Z",
+          "endDateTime": "2017-07-16T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-23T14:30:00.000Z",
+          "endDateTime": "2017-07-23T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-30T14:30:00.000Z",
+          "endDateTime": "2017-07-30T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-06T14:30:00.000Z",
+          "endDateTime": "2017-08-06T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-13T14:30:00.000Z",
+          "endDateTime": "2017-08-13T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-20T14:30:00.000Z",
+          "endDateTime": "2017-08-20T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-27T14:30:00.000Z",
+          "endDateTime": "2017-08-27T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-03T14:30:00.000Z",
+          "endDateTime": "2017-09-03T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-10T14:30:00.000Z",
+          "endDateTime": "2017-09-10T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-17T14:30:00.000Z",
+          "endDateTime": "2017-09-17T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-24T14:30:00.000Z",
+          "endDateTime": "2017-09-24T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-01T14:30:00.000Z",
+          "endDateTime": "2017-10-01T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-08T14:30:00.000Z",
+          "endDateTime": "2017-10-08T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-15T14:30:00.000Z",
+          "endDateTime": "2017-10-15T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-22T14:30:00.000Z",
+          "endDateTime": "2017-10-22T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-29T14:30:00.000Z",
+          "endDateTime": "2017-10-29T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-05T14:30:00.000Z",
+          "endDateTime": "2017-11-05T21:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-12T15:30:00.000Z",
+          "endDateTime": "2017-11-12T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-19T15:30:00.000Z",
+          "endDateTime": "2017-11-19T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-26T15:30:00.000Z",
+          "endDateTime": "2017-11-26T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-03T15:30:00.000Z",
+          "endDateTime": "2017-12-03T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-10T15:30:00.000Z",
+          "endDateTime": "2017-12-10T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-17T15:30:00.000Z",
+          "endDateTime": "2017-12-17T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-24T15:30:00.000Z",
+          "endDateTime": "2017-12-24T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-31T15:30:00.000Z",
+          "endDateTime": "2017-12-31T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-07T15:30:00.000Z",
+          "endDateTime": "2018-01-07T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-14T15:30:00.000Z",
+          "endDateTime": "2018-01-14T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-21T15:30:00.000Z",
+          "endDateTime": "2018-01-21T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-28T15:30:00.000Z",
+          "endDateTime": "2018-01-28T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-04T15:30:00.000Z",
+          "endDateTime": "2018-02-04T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-11T15:30:00.000Z",
+          "endDateTime": "2018-02-11T22:30:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-18T15:30:00.000Z",
+          "endDateTime": "2018-02-18T22:30:00.000Z"
+        }
+      ],
+      "locations": [
+        {
+          "id": "67f29477-d746-f116-a626-9e7f3ccb2524",
+          "coords": {
+            "lng": -79.39253405291748,
+            "lat": 43.653585670712886
+          },
+          "$$hashKey": "object:19641",
+          "address": "317 Dundas St W, Toronto, ON M5T 1G4, Canada",
+          "geoCoded": true,
+          "locationType": [
+            {
+              "type": "marker"
+            }
+          ],
+          "locationName": "Art Gallery of Ontario",
+          "type": "marker"
+        }
+      ],
+      "description": "The Art Gallery of Ontario (AGO) marks Canada&#8217;s 150th anniversary with Every.Now.Then: Reframing Nationhood, a dynamic contemporary exhibition that aims to address the mistakes of the past, rewrite and reclaim history, and articulate the need to take certain moments to stop, reflect, question and analyze as we move forward as a country. This exhibition critically explores three urgent questions through the eyes of some of the country&#8217;s best emerging and established artists: where has Canada come from, what it is now, and where is it going? &#10;&#10;The multimedia installation features 33 projects by artists from across Canada.",
+      "orgEmail": "kprice@holmespr.com",
+      "otherCostInfo": "Tickets for the exhibition are included in the price of general admission and can be purchased at at the link below, in person and by phone.  Admission is free for children under 5 and AGO Members.",
+      "features": {
+        "Onsite Food and Beverages": true,
+        "Public Washrooms": true
+      },
+      "categoryString": "Arts/Exhibits,Canada 150,Museum",
+      "themeString": "",
+      "accessibility": "full",
+      "partnerName": "Art Gallery of Ontario",
+      "theme": [],
+      "image": {
+        "fileSize": 105176,
+        "fileType": "image/jpeg",
+        "binId": "y4AcowgICIryI8c8OlReZA",
+        "fileName": "RosalieFavell copy.jpg",
+        "credit": "Rosalie Favell   Family, 2015   Oil on canvas, 61 ¿ 61 cm (24 ¿ 24 in)   Collection of the Artist   (C) Rosalie Favell",
+        "altText": "Family, 2015",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/RosalieFavell copy_y4AcowgICIryI8c8OlReZA.jpg"
+      },
+      "reservationsRequired": "No",
+      "recId": "w_gmK1nnxvemWzvKI3hExQ",
+      "orgName": "Holmes PR",
+      "cost": {
+        "student": 11,
+        "youth": 11,
+        "adult": 19.5,
+        "senior": 16
+      },
+      "category": [
+        {
+          "name": "Arts/Exhibits"
+        },
+        {
+          "name": "Canada 150"
+        },
+        {
+          "name": "Museum"
+        }
+      ],
+      "eventPhone": "4169796648",
+      "shortDescription": "A dynamic contemporary exhibition that aims to address the mistakes of the past, rewrite and reclaim history, and articulate the need to take certain moments to stop, reflect, question and analyze as we move forward as a country.",
+      "contactName": "Kelly Price",
+      "admin": {
+        "reviewerComments": "AG 06/06/2017 ms 060917",
+        "updateTimestamp": "2017-06-09T13:24:32.938Z",
+        "newsletterCategory": [
+          {
+            "value": "Attractions/Happenings"
+          }
+        ],
+        "includeInNewsletter": true,
+        "newsletterSubcategory": [
+          {
+            "value": "Art Gallery of Ontario"
+          }
+        ],
+        "featuredEvent": "pending",
+        "approvedTimestamp": "2017-06-09T13:24:32.938Z",
+        "approvedBy": "msilver2",
+        "updatedBy": "msilver2"
+      },
+      "freeEvent": "No",
+      "orgTypeOther": "public relations agency",
+      "eventName": "Every.Now.Then: Reframing Nationhood"
+    }
+  },
+  {
+    "calEvent": {
+      "orgType": "Public Agency",
+      "startDate": "2017-06-16T04:00:00.000Z",
+      "thumbImage": {
+        "fileSize": 39894,
+        "fileType": "image/png",
+        "binId": "bQxqmGLWE6Z0R_2bZ9jhXw",
+        "fileName": "InventoriumWBEY_th.png",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/InventoriumWBEY_th_bQxqmGLWE6Z0R_2bZ9jhXw.png"
+      },
+      "timeInfo": "Holidays, 10 a.m. to 5 p.m. Visit website for details.",
+      "weeklyDates": [
+        {
+          "startTime": "2017-06-23T14:00:00.000Z",
+          "weekDay": [
+            {
+              "day": "Monday"
+            }
+          ],
+          "endTime": "2017-06-23T20:00:00.000Z"
+        },
+        {
+          "startTime": "2017-06-23T14:00:00.000Z",
+          "weekDay": [
+            {
+              "day": "Tuesday"
+            }
+          ],
+          "endTime": "2017-06-23T20:00:00.000Z"
+        },
+        {
+          "startTime": "2017-06-23T14:00:00.000Z",
+          "weekDay": [
+            {
+              "day": "Wednesday"
+            }
+          ],
+          "endTime": "2017-06-23T20:00:00.000Z"
+        },
+        {
+          "startTime": "2017-06-23T14:00:00.000Z",
+          "weekDay": [
+            {
+              "day": "Thursday"
+            }
+          ],
+          "endTime": "2017-06-23T20:00:00.000Z"
+        },
+        {
+          "startTime": "2017-06-23T14:00:00.000Z",
+          "weekDay": [
+            {
+              "day": "Friday"
+            }
+          ],
+          "endTime": "2017-06-23T20:00:00.000Z"
+        },
+        {
+          "startTime": "2017-06-23T14:00:00.000Z",
+          "weekDay": [
+            {
+              "day": "Saturday"
+            }
+          ],
+          "endTime": "2017-06-24T00:00:00.000Z"
+        },
+        {
+          "startTime": "2017-06-24T02:11:00.000Z",
+          "weekDay": [
+            {
+              "day": "Sunday"
+            }
+          ],
+          "endTime": "2017-06-23T21:00:00.000Z"
+        }
+      ],
+      "orgAddress": "770 Don Mills Road",
+      "terms": "agree",
+      "contactTitle": "Group Sales and Service Coordinator",
+      "endDate": "2018-04-01T04:00:00.000Z",
+      "frequency": "weekly",
+      "partnerType": "producedby",
+      "eventWebsite": "http://www.OntarioScienceCentre.ca/inventorium",
+      "orgPhone": "4166963244",
+      "dates": [
+        {
+          "startDateTime": "2017-06-19T14:00:00.000Z",
+          "endDateTime": "2017-06-19T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-26T14:00:00.000Z",
+          "endDateTime": "2017-06-26T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-03T14:00:00.000Z",
+          "endDateTime": "2017-07-03T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-10T14:00:00.000Z",
+          "endDateTime": "2017-07-10T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-17T14:00:00.000Z",
+          "endDateTime": "2017-07-17T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-24T14:00:00.000Z",
+          "endDateTime": "2017-07-24T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-31T14:00:00.000Z",
+          "endDateTime": "2017-07-31T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-07T14:00:00.000Z",
+          "endDateTime": "2017-08-07T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-14T14:00:00.000Z",
+          "endDateTime": "2017-08-14T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-21T14:00:00.000Z",
+          "endDateTime": "2017-08-21T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-28T14:00:00.000Z",
+          "endDateTime": "2017-08-28T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-04T14:00:00.000Z",
+          "endDateTime": "2017-09-04T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-11T14:00:00.000Z",
+          "endDateTime": "2017-09-11T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-18T14:00:00.000Z",
+          "endDateTime": "2017-09-18T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-25T14:00:00.000Z",
+          "endDateTime": "2017-09-25T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-02T14:00:00.000Z",
+          "endDateTime": "2017-10-02T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-09T14:00:00.000Z",
+          "endDateTime": "2017-10-09T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-16T14:00:00.000Z",
+          "endDateTime": "2017-10-16T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-23T14:00:00.000Z",
+          "endDateTime": "2017-10-23T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-30T14:00:00.000Z",
+          "endDateTime": "2017-10-30T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-06T15:00:00.000Z",
+          "endDateTime": "2017-11-06T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-13T15:00:00.000Z",
+          "endDateTime": "2017-11-13T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-20T15:00:00.000Z",
+          "endDateTime": "2017-11-20T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-27T15:00:00.000Z",
+          "endDateTime": "2017-11-27T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-04T15:00:00.000Z",
+          "endDateTime": "2017-12-04T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-11T15:00:00.000Z",
+          "endDateTime": "2017-12-11T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-18T15:00:00.000Z",
+          "endDateTime": "2017-12-18T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-25T15:00:00.000Z",
+          "endDateTime": "2017-12-25T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-01T15:00:00.000Z",
+          "endDateTime": "2018-01-01T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-08T15:00:00.000Z",
+          "endDateTime": "2018-01-08T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-15T15:00:00.000Z",
+          "endDateTime": "2018-01-15T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-22T15:00:00.000Z",
+          "endDateTime": "2018-01-22T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-29T15:00:00.000Z",
+          "endDateTime": "2018-01-29T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-05T15:00:00.000Z",
+          "endDateTime": "2018-02-05T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-12T15:00:00.000Z",
+          "endDateTime": "2018-02-12T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-19T15:00:00.000Z",
+          "endDateTime": "2018-02-19T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-26T15:00:00.000Z",
+          "endDateTime": "2018-02-26T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-05T15:00:00.000Z",
+          "endDateTime": "2018-03-05T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-12T14:00:00.000Z",
+          "endDateTime": "2018-03-12T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-19T14:00:00.000Z",
+          "endDateTime": "2018-03-19T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-26T14:00:00.000Z",
+          "endDateTime": "2018-03-26T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-20T14:00:00.000Z",
+          "endDateTime": "2017-06-20T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-27T14:00:00.000Z",
+          "endDateTime": "2017-06-27T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-04T14:00:00.000Z",
+          "endDateTime": "2017-07-04T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-11T14:00:00.000Z",
+          "endDateTime": "2017-07-11T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-18T14:00:00.000Z",
+          "endDateTime": "2017-07-18T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-25T14:00:00.000Z",
+          "endDateTime": "2017-07-25T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-01T14:00:00.000Z",
+          "endDateTime": "2017-08-01T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-08T14:00:00.000Z",
+          "endDateTime": "2017-08-08T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-15T14:00:00.000Z",
+          "endDateTime": "2017-08-15T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-22T14:00:00.000Z",
+          "endDateTime": "2017-08-22T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-29T14:00:00.000Z",
+          "endDateTime": "2017-08-29T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-05T14:00:00.000Z",
+          "endDateTime": "2017-09-05T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-12T14:00:00.000Z",
+          "endDateTime": "2017-09-12T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-19T14:00:00.000Z",
+          "endDateTime": "2017-09-19T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-26T14:00:00.000Z",
+          "endDateTime": "2017-09-26T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-03T14:00:00.000Z",
+          "endDateTime": "2017-10-03T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-10T14:00:00.000Z",
+          "endDateTime": "2017-10-10T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-17T14:00:00.000Z",
+          "endDateTime": "2017-10-17T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-24T14:00:00.000Z",
+          "endDateTime": "2017-10-24T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-31T14:00:00.000Z",
+          "endDateTime": "2017-10-31T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-07T15:00:00.000Z",
+          "endDateTime": "2017-11-07T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-14T15:00:00.000Z",
+          "endDateTime": "2017-11-14T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-21T15:00:00.000Z",
+          "endDateTime": "2017-11-21T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-28T15:00:00.000Z",
+          "endDateTime": "2017-11-28T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-05T15:00:00.000Z",
+          "endDateTime": "2017-12-05T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-12T15:00:00.000Z",
+          "endDateTime": "2017-12-12T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-19T15:00:00.000Z",
+          "endDateTime": "2017-12-19T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-26T15:00:00.000Z",
+          "endDateTime": "2017-12-26T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-02T15:00:00.000Z",
+          "endDateTime": "2018-01-02T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-09T15:00:00.000Z",
+          "endDateTime": "2018-01-09T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-16T15:00:00.000Z",
+          "endDateTime": "2018-01-16T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-23T15:00:00.000Z",
+          "endDateTime": "2018-01-23T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-30T15:00:00.000Z",
+          "endDateTime": "2018-01-30T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-06T15:00:00.000Z",
+          "endDateTime": "2018-02-06T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-13T15:00:00.000Z",
+          "endDateTime": "2018-02-13T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-20T15:00:00.000Z",
+          "endDateTime": "2018-02-20T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-27T15:00:00.000Z",
+          "endDateTime": "2018-02-27T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-06T15:00:00.000Z",
+          "endDateTime": "2018-03-06T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-13T14:00:00.000Z",
+          "endDateTime": "2018-03-13T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-20T14:00:00.000Z",
+          "endDateTime": "2018-03-20T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-27T14:00:00.000Z",
+          "endDateTime": "2018-03-27T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-21T14:00:00.000Z",
+          "endDateTime": "2017-06-21T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-28T14:00:00.000Z",
+          "endDateTime": "2017-06-28T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-05T14:00:00.000Z",
+          "endDateTime": "2017-07-05T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-12T14:00:00.000Z",
+          "endDateTime": "2017-07-12T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-19T14:00:00.000Z",
+          "endDateTime": "2017-07-19T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-26T14:00:00.000Z",
+          "endDateTime": "2017-07-26T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-02T14:00:00.000Z",
+          "endDateTime": "2017-08-02T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-09T14:00:00.000Z",
+          "endDateTime": "2017-08-09T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-16T14:00:00.000Z",
+          "endDateTime": "2017-08-16T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-23T14:00:00.000Z",
+          "endDateTime": "2017-08-23T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-30T14:00:00.000Z",
+          "endDateTime": "2017-08-30T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-06T14:00:00.000Z",
+          "endDateTime": "2017-09-06T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-13T14:00:00.000Z",
+          "endDateTime": "2017-09-13T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-20T14:00:00.000Z",
+          "endDateTime": "2017-09-20T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-27T14:00:00.000Z",
+          "endDateTime": "2017-09-27T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-04T14:00:00.000Z",
+          "endDateTime": "2017-10-04T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-11T14:00:00.000Z",
+          "endDateTime": "2017-10-11T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-18T14:00:00.000Z",
+          "endDateTime": "2017-10-18T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-25T14:00:00.000Z",
+          "endDateTime": "2017-10-25T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-01T14:00:00.000Z",
+          "endDateTime": "2017-11-01T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-08T15:00:00.000Z",
+          "endDateTime": "2017-11-08T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-15T15:00:00.000Z",
+          "endDateTime": "2017-11-15T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-22T15:00:00.000Z",
+          "endDateTime": "2017-11-22T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-29T15:00:00.000Z",
+          "endDateTime": "2017-11-29T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-06T15:00:00.000Z",
+          "endDateTime": "2017-12-06T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-13T15:00:00.000Z",
+          "endDateTime": "2017-12-13T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-20T15:00:00.000Z",
+          "endDateTime": "2017-12-20T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-27T15:00:00.000Z",
+          "endDateTime": "2017-12-27T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-03T15:00:00.000Z",
+          "endDateTime": "2018-01-03T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-10T15:00:00.000Z",
+          "endDateTime": "2018-01-10T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-17T15:00:00.000Z",
+          "endDateTime": "2018-01-17T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-24T15:00:00.000Z",
+          "endDateTime": "2018-01-24T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-31T15:00:00.000Z",
+          "endDateTime": "2018-01-31T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-07T15:00:00.000Z",
+          "endDateTime": "2018-02-07T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-14T15:00:00.000Z",
+          "endDateTime": "2018-02-14T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-21T15:00:00.000Z",
+          "endDateTime": "2018-02-21T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-28T15:00:00.000Z",
+          "endDateTime": "2018-02-28T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-07T15:00:00.000Z",
+          "endDateTime": "2018-03-07T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-14T14:00:00.000Z",
+          "endDateTime": "2018-03-14T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-21T14:00:00.000Z",
+          "endDateTime": "2018-03-21T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-28T14:00:00.000Z",
+          "endDateTime": "2018-03-28T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-22T14:00:00.000Z",
+          "endDateTime": "2017-06-22T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-29T14:00:00.000Z",
+          "endDateTime": "2017-06-29T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-06T14:00:00.000Z",
+          "endDateTime": "2017-07-06T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-13T14:00:00.000Z",
+          "endDateTime": "2017-07-13T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-20T14:00:00.000Z",
+          "endDateTime": "2017-07-20T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-27T14:00:00.000Z",
+          "endDateTime": "2017-07-27T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-03T14:00:00.000Z",
+          "endDateTime": "2017-08-03T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-10T14:00:00.000Z",
+          "endDateTime": "2017-08-10T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-17T14:00:00.000Z",
+          "endDateTime": "2017-08-17T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-24T14:00:00.000Z",
+          "endDateTime": "2017-08-24T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-31T14:00:00.000Z",
+          "endDateTime": "2017-08-31T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-07T14:00:00.000Z",
+          "endDateTime": "2017-09-07T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-14T14:00:00.000Z",
+          "endDateTime": "2017-09-14T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-21T14:00:00.000Z",
+          "endDateTime": "2017-09-21T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-28T14:00:00.000Z",
+          "endDateTime": "2017-09-28T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-05T14:00:00.000Z",
+          "endDateTime": "2017-10-05T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-12T14:00:00.000Z",
+          "endDateTime": "2017-10-12T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-19T14:00:00.000Z",
+          "endDateTime": "2017-10-19T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-26T14:00:00.000Z",
+          "endDateTime": "2017-10-26T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-02T14:00:00.000Z",
+          "endDateTime": "2017-11-02T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-09T15:00:00.000Z",
+          "endDateTime": "2017-11-09T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-16T15:00:00.000Z",
+          "endDateTime": "2017-11-16T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-23T15:00:00.000Z",
+          "endDateTime": "2017-11-23T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-30T15:00:00.000Z",
+          "endDateTime": "2017-11-30T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-07T15:00:00.000Z",
+          "endDateTime": "2017-12-07T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-14T15:00:00.000Z",
+          "endDateTime": "2017-12-14T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-21T15:00:00.000Z",
+          "endDateTime": "2017-12-21T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-28T15:00:00.000Z",
+          "endDateTime": "2017-12-28T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-04T15:00:00.000Z",
+          "endDateTime": "2018-01-04T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-11T15:00:00.000Z",
+          "endDateTime": "2018-01-11T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-18T15:00:00.000Z",
+          "endDateTime": "2018-01-18T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-25T15:00:00.000Z",
+          "endDateTime": "2018-01-25T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-01T15:00:00.000Z",
+          "endDateTime": "2018-02-01T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-08T15:00:00.000Z",
+          "endDateTime": "2018-02-08T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-15T15:00:00.000Z",
+          "endDateTime": "2018-02-15T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-22T15:00:00.000Z",
+          "endDateTime": "2018-02-22T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-01T15:00:00.000Z",
+          "endDateTime": "2018-03-01T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-08T15:00:00.000Z",
+          "endDateTime": "2018-03-08T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-15T14:00:00.000Z",
+          "endDateTime": "2018-03-15T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-22T14:00:00.000Z",
+          "endDateTime": "2018-03-22T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-29T14:00:00.000Z",
+          "endDateTime": "2018-03-29T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-16T14:00:00.000Z",
+          "endDateTime": "2017-06-16T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-23T14:00:00.000Z",
+          "endDateTime": "2017-06-23T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-30T14:00:00.000Z",
+          "endDateTime": "2017-06-30T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-07T14:00:00.000Z",
+          "endDateTime": "2017-07-07T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-14T14:00:00.000Z",
+          "endDateTime": "2017-07-14T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-21T14:00:00.000Z",
+          "endDateTime": "2017-07-21T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-28T14:00:00.000Z",
+          "endDateTime": "2017-07-28T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-04T14:00:00.000Z",
+          "endDateTime": "2017-08-04T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-11T14:00:00.000Z",
+          "endDateTime": "2017-08-11T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-18T14:00:00.000Z",
+          "endDateTime": "2017-08-18T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-25T14:00:00.000Z",
+          "endDateTime": "2017-08-25T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-01T14:00:00.000Z",
+          "endDateTime": "2017-09-01T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-08T14:00:00.000Z",
+          "endDateTime": "2017-09-08T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-15T14:00:00.000Z",
+          "endDateTime": "2017-09-15T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-22T14:00:00.000Z",
+          "endDateTime": "2017-09-22T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-29T14:00:00.000Z",
+          "endDateTime": "2017-09-29T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-06T14:00:00.000Z",
+          "endDateTime": "2017-10-06T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-13T14:00:00.000Z",
+          "endDateTime": "2017-10-13T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-20T14:00:00.000Z",
+          "endDateTime": "2017-10-20T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-27T14:00:00.000Z",
+          "endDateTime": "2017-10-27T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-03T14:00:00.000Z",
+          "endDateTime": "2017-11-03T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-10T15:00:00.000Z",
+          "endDateTime": "2017-11-10T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-17T15:00:00.000Z",
+          "endDateTime": "2017-11-17T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-24T15:00:00.000Z",
+          "endDateTime": "2017-11-24T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-01T15:00:00.000Z",
+          "endDateTime": "2017-12-01T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-08T15:00:00.000Z",
+          "endDateTime": "2017-12-08T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-15T15:00:00.000Z",
+          "endDateTime": "2017-12-15T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-22T15:00:00.000Z",
+          "endDateTime": "2017-12-22T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-29T15:00:00.000Z",
+          "endDateTime": "2017-12-29T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-05T15:00:00.000Z",
+          "endDateTime": "2018-01-05T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-12T15:00:00.000Z",
+          "endDateTime": "2018-01-12T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-19T15:00:00.000Z",
+          "endDateTime": "2018-01-19T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-26T15:00:00.000Z",
+          "endDateTime": "2018-01-26T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-02T15:00:00.000Z",
+          "endDateTime": "2018-02-02T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-09T15:00:00.000Z",
+          "endDateTime": "2018-02-09T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-16T15:00:00.000Z",
+          "endDateTime": "2018-02-16T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-23T15:00:00.000Z",
+          "endDateTime": "2018-02-23T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-02T15:00:00.000Z",
+          "endDateTime": "2018-03-02T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-09T15:00:00.000Z",
+          "endDateTime": "2018-03-09T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-16T14:00:00.000Z",
+          "endDateTime": "2018-03-16T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-23T14:00:00.000Z",
+          "endDateTime": "2018-03-23T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-30T14:00:00.000Z",
+          "endDateTime": "2018-03-30T20:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-17T14:00:00.000Z",
+          "endDateTime": "2017-06-18T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-24T14:00:00.000Z",
+          "endDateTime": "2017-06-25T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-01T14:00:00.000Z",
+          "endDateTime": "2017-07-02T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-08T14:00:00.000Z",
+          "endDateTime": "2017-07-09T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-15T14:00:00.000Z",
+          "endDateTime": "2017-07-16T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-22T14:00:00.000Z",
+          "endDateTime": "2017-07-23T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-29T14:00:00.000Z",
+          "endDateTime": "2017-07-30T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-05T14:00:00.000Z",
+          "endDateTime": "2017-08-06T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-12T14:00:00.000Z",
+          "endDateTime": "2017-08-13T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-19T14:00:00.000Z",
+          "endDateTime": "2017-08-20T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-26T14:00:00.000Z",
+          "endDateTime": "2017-08-27T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-02T14:00:00.000Z",
+          "endDateTime": "2017-09-03T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-09T14:00:00.000Z",
+          "endDateTime": "2017-09-10T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-16T14:00:00.000Z",
+          "endDateTime": "2017-09-17T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-23T14:00:00.000Z",
+          "endDateTime": "2017-09-24T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-30T14:00:00.000Z",
+          "endDateTime": "2017-10-01T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-07T14:00:00.000Z",
+          "endDateTime": "2017-10-08T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-14T14:00:00.000Z",
+          "endDateTime": "2017-10-15T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-21T14:00:00.000Z",
+          "endDateTime": "2017-10-22T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-28T14:00:00.000Z",
+          "endDateTime": "2017-10-29T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-04T14:00:00.000Z",
+          "endDateTime": "2017-11-05T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-11T15:00:00.000Z",
+          "endDateTime": "2017-11-12T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-18T15:00:00.000Z",
+          "endDateTime": "2017-11-19T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-25T15:00:00.000Z",
+          "endDateTime": "2017-11-26T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-02T15:00:00.000Z",
+          "endDateTime": "2017-12-03T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-09T15:00:00.000Z",
+          "endDateTime": "2017-12-10T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-16T15:00:00.000Z",
+          "endDateTime": "2017-12-17T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-23T15:00:00.000Z",
+          "endDateTime": "2017-12-24T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-30T15:00:00.000Z",
+          "endDateTime": "2017-12-31T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-06T15:00:00.000Z",
+          "endDateTime": "2018-01-07T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-13T15:00:00.000Z",
+          "endDateTime": "2018-01-14T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-20T15:00:00.000Z",
+          "endDateTime": "2018-01-21T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-27T15:00:00.000Z",
+          "endDateTime": "2018-01-28T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-03T15:00:00.000Z",
+          "endDateTime": "2018-02-04T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-10T15:00:00.000Z",
+          "endDateTime": "2018-02-11T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-17T15:00:00.000Z",
+          "endDateTime": "2018-02-18T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-24T15:00:00.000Z",
+          "endDateTime": "2018-02-25T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-03T15:00:00.000Z",
+          "endDateTime": "2018-03-04T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-10T15:00:00.000Z",
+          "endDateTime": "2018-03-11T01:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-17T14:00:00.000Z",
+          "endDateTime": "2018-03-18T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-24T14:00:00.000Z",
+          "endDateTime": "2018-03-25T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-31T14:00:00.000Z",
+          "endDateTime": "2018-04-01T00:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-19T02:11:00.000Z",
+          "endDateTime": "2017-06-18T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-06-26T02:11:00.000Z",
+          "endDateTime": "2017-06-25T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-03T02:11:00.000Z",
+          "endDateTime": "2017-07-02T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-10T02:11:00.000Z",
+          "endDateTime": "2017-07-09T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-17T02:11:00.000Z",
+          "endDateTime": "2017-07-16T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-24T02:11:00.000Z",
+          "endDateTime": "2017-07-23T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-07-31T02:11:00.000Z",
+          "endDateTime": "2017-07-30T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-07T02:11:00.000Z",
+          "endDateTime": "2017-08-06T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-14T02:11:00.000Z",
+          "endDateTime": "2017-08-13T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-21T02:11:00.000Z",
+          "endDateTime": "2017-08-20T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-08-28T02:11:00.000Z",
+          "endDateTime": "2017-08-27T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-04T02:11:00.000Z",
+          "endDateTime": "2017-09-03T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-11T02:11:00.000Z",
+          "endDateTime": "2017-09-10T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-18T02:11:00.000Z",
+          "endDateTime": "2017-09-17T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-09-25T02:11:00.000Z",
+          "endDateTime": "2017-09-24T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-02T02:11:00.000Z",
+          "endDateTime": "2017-10-01T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-09T02:11:00.000Z",
+          "endDateTime": "2017-10-08T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-16T02:11:00.000Z",
+          "endDateTime": "2017-10-15T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-23T02:11:00.000Z",
+          "endDateTime": "2017-10-22T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-10-30T02:11:00.000Z",
+          "endDateTime": "2017-10-29T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-06T02:11:00.000Z",
+          "endDateTime": "2017-11-05T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-13T03:11:00.000Z",
+          "endDateTime": "2017-11-12T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-20T03:11:00.000Z",
+          "endDateTime": "2017-11-19T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-11-27T03:11:00.000Z",
+          "endDateTime": "2017-11-26T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-04T03:11:00.000Z",
+          "endDateTime": "2017-12-03T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-11T03:11:00.000Z",
+          "endDateTime": "2017-12-10T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-18T03:11:00.000Z",
+          "endDateTime": "2017-12-17T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2017-12-25T03:11:00.000Z",
+          "endDateTime": "2017-12-24T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-01T03:11:00.000Z",
+          "endDateTime": "2017-12-31T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-08T03:11:00.000Z",
+          "endDateTime": "2018-01-07T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-15T03:11:00.000Z",
+          "endDateTime": "2018-01-14T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-22T03:11:00.000Z",
+          "endDateTime": "2018-01-21T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-01-29T03:11:00.000Z",
+          "endDateTime": "2018-01-28T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-05T03:11:00.000Z",
+          "endDateTime": "2018-02-04T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-12T03:11:00.000Z",
+          "endDateTime": "2018-02-11T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-19T03:11:00.000Z",
+          "endDateTime": "2018-02-18T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-02-26T03:11:00.000Z",
+          "endDateTime": "2018-02-25T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-05T03:11:00.000Z",
+          "endDateTime": "2018-03-04T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-12T03:11:00.000Z",
+          "endDateTime": "2018-03-11T22:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-19T02:11:00.000Z",
+          "endDateTime": "2018-03-18T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-03-26T02:11:00.000Z",
+          "endDateTime": "2018-03-25T21:00:00.000Z"
+        },
+        {
+          "startDateTime": "2018-04-02T02:11:00.000Z",
+          "endDateTime": "2018-04-01T21:00:00.000Z"
+        }
+      ],
+      "eventEmail": "Contact.Centre@OntarioScienceCentre.ca",
+      "locations": [
+        {
+          "id": "71b09b39-55f5-8c50-b870-6215d44ad56b",
+          "coords": {
+            "lng": -79.33958459999997,
+            "lat": 43.7164673
+          },
+          "address": "770 Don Mills Rd, North York, ON M3C 1T3, Canada",
+          "geoCoded": true,
+          "locationType": [
+            {
+              "type": "marker"
+            }
+          ],
+          "locationName": "Ontario Science Centre",
+          "type": "marker"
+        }
+      ],
+      "description": "Put your creativity to the test at Inventorium, a dynamic, curiosity-driven space that encourages play, creation and collaboration.&#10;&#10;Show off your ingenuity through engaging, interactive experiences for aspiring innovators of all ages.  Let your imagination soar in our evolving, hands-on learning space, and see where your curiosity takes you! Inventorium is included with general admission.",
+      "orgEmail": "alea.frauts@osc.on.ca",
+      "features": {
+        "Bike Racks": true,
+        "Paid Parking": true,
+        "Onsite Food and Beverages": true,
+        "Public Washrooms": true
+      },
+      "categoryString": "Arts/Exhibits,Canada 150,Museum",
+      "themeString": "",
+      "accessibility": "full",
+      "partnerName": "Ontario Science Centre",
+      "theme": [],
+      "image": {
+        "fileSize": 263300,
+        "fileType": "image/jpeg",
+        "binId": "B61XV9d9EJ_bcCdznorWNw",
+        "fileName": "InventoriumWBEY.jpg",
+        "altText": "Inventorium. Play Create Connect. Ontario150.",
+        "credit": "Inventorium is supported by Ontario150 funding from the Ontario Ministry of Tourism, Culture and Sport. Media Partner: Toronto Star.",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/InventoriumWBEY_B61XV9d9EJ_bcCdznorWNw.jpg"
+      },
+      "reservationsRequired": "No",
+      "recId": "LshEE5q2SU_jm8HLwA7uHg",
+      "orgName": "Ontario Science Centre",
+      "cost": {
+        "child": 13,
+        "student": 16,
+        "youth": 16,
+        "adult": 22,
+        "senior": 16
+      },
+      "expectedAvg": 500000,
+      "eventPhone": "4166961000",
+      "category": [
+        {
+          "name": "Arts/Exhibits"
+        },
+        {
+          "name": "Canada 150"
+        },
+        {
+          "name": "Museum"
+        }
+      ],
+      "shortDescription": "Put your creativity to the test at Inventorium, a dynamic, curiosity-driven space that encourages play, creation and collaboration.",
+      "admin": {
+        "reviewerComments": "TH&#10;06/20/2017 ms 062317",
+        "updateTimestamp": "2017-11-22T18:35:42.236Z",
+        "newsletterCategory": [
+          {
+            "value": "Attractions/Happenings"
+          }
+        ],
+        "includeInNewsletter": true,
+        "newsletterSubcategory": [
+          {
+            "value": "Ontario Science Centre"
+          }
+        ],
+        "featuredEvent": "false",
+        "approvedTimestamp": "2017-06-23T16:36:39.677Z",
+        "approvedBy": "msilver2",
+        "updatedBy": "rhortig"
+      },
+      "contactName": "Alea Frauts",
+      "freeEvent": "No",
+      "eventName": "Inventorium"
+    }
+  },
+  {
+    "calEvent": {
+      "orgType": "Private/Business",
+      "startDate": "2018-06-10T04:00:00.000Z",
+      "thumbImage": {
+        "fileSize": 56581,
+        "fileType": "image/png",
+        "binId": "ljDlGJE2eExIqM9cnJm9rQ",
+        "fileName": "093ad0e4eb2fa25520ff72ede18f317c_th.png",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/093ad0e4eb2fa25520ff72ede18f317c_th_ljDlGJE2eExIqM9cnJm9rQ.png"
+      },
+      "timeInfo": "",
+      "startDateTime": "2018-06-10T04:00:00.000Z",
+      "orgAddress": "49 Bathurst Suite #101",
+      "sportsSubcategory": [
+        {
+          "name": "Other"
+        }
+      ],
+      "terms": "agree",
+      "contactTitle": "Director of Marketing",
+      "endDate": "2018-06-10T04:00:00.000Z",
+      "frequency": "once",
+      "partnerType": "producedby",
+      "eventWebsite": "http://www.runlikeadiva.com/Events/TorontoIsland.htm",
+      "orgPhone": "4169628899",
+      "dates": [
+        {
+          "startDateTime": "2018-06-10T04:00:00.000Z",
+          "allDay": true
+        }
+      ],
+      "eventEmail": "info@gwnevents.com",
+      "locations": [
+        {
+          "id": "5d33fb38-76a7-f7a8-e16f-acac95ba85af",
+          "coords": {
+            "lng": -79.37509469999998,
+            "lat": 43.6404498
+          },
+          "$$hashKey": "object:17151",
+          "address": "9 Queens Quay W, Toronto, ON M5J 2H3, Canada",
+          "geoCoded": true,
+          "locationType": [
+            {
+              "type": "marker"
+            }
+          ],
+          "locationName": "Toronto Island",
+          "type": "marker"
+        }
+      ],
+      "description": "The Divas&#174;  Half Marathon and 5K event is the largest women&#8217;s focused race series event in North America with 11+ stops across Canada and the United States. In 2017, the Divas phenomenon came to Canada with 3,000 ladies running like a Diva. On June 10th, the Divas&#174; returns to Toronto Island. The Series is all about girl power.",
+      "orgEmail": "info@gwnevents.com",
+      "otherCostInfo": "Half Marathon: $100&#10;5K: $75&#10;Late Registration at our Health and Fitness Boutique &#10;Half Marathon: $125&#10;5K: $85",
+      "features": {
+        "Bike Racks": true,
+        "Paid Parking": true,
+        "Onsite Food and Beverages": true,
+        "Public Washrooms": true
+      },
+      "categoryString": "Charity/Cause,Running,Sports",
+      "themeString": "",
+      "accessibility": "full",
+      "partnerName": "GWN Events",
+      "allDay": true,
+      "theme": [
+        {
+          "name": ""
+        }
+      ],
+      "image": {
+        "fileSize": 101824,
+        "fileType": "image/jpeg",
+        "binId": "LXqY_sKDG6FEGKjr541JSg",
+        "fileName": "093ad0e4eb2fa25520ff72ede18f317c.jpeg",
+        "altText": "Divas¿ Running Series",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/093ad0e4eb2fa25520ff72ede18f317c_LXqY_sKDG6FEGKjr541JSg.jpeg"
+      },
+      "reservationsRequired": "Yes",
+      "recId": "03mBP2l_Kftn75a4Yw58fA",
+      "orgName": "GWN Events",
+      "expectedAvg": 5000,
+      "category": [
+        {
+          "name": "Charity/Cause"
+        },
+        {
+          "name": "Running"
+        },
+        {
+          "name": "Sports"
+        }
+      ],
+      "eventPhone": "4169628899",
+      "admin": {
+        "reviewerComments": "ms 062617",
+        "updateTimestamp": "2017-06-26T19:50:30.723Z",
+        "newsletterCategory": [],
+        "includeInNewsletter": false,
+        "newsletterSubcategory": [],
+        "featuredEvent": "false",
+        "approvedTimestamp": "2017-06-26T19:50:30.724Z",
+        "approvedBy": "msilver2",
+        "updatedBy": "msilver2"
+      },
+      "contactName": "Susana Barros",
+      "freeEvent": "No",
+      "eventName": "Divas Half Marathon &amp; 5K"
+    }
+  },
+  {
+    "calEvent": {
+      "orgType": "Non-Profit",
+      "startDate": "2018-05-14T04:00:00.000Z",
+      "thumbImage": {
+        "fileSize": 30908,
+        "fileType": "image/png",
+        "binId": "FaUrEa5I7VeTP9J41HXBOQ",
+        "fileName": "innocenceLost_CityHall_th.png",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/innocenceLost_CityHall_th_FaUrEa5I7VeTP9J41HXBOQ.png"
+      },
+      "timeInfo": "",
+      "orgAddress": "50 Tank House Lane",
+      "terms": "agree",
+      "endDate": "2018-06-23T04:00:00.000Z",
+      "frequency": "dates",
+      "partnerType": "producedby",
+      "eventWebsite": "https://soulpepper.ca/performances/innocence-lost-a-play-about-steven-truscott/4093",
+      "orgPhone": "4168668666",
+      "locations": [
+        {
+          "id": "d0b0bbcc-fc83-dd95-8db5-aa1bdafaac38",
+          "coords": {
+            "lng": -79.3574587,
+            "lat": 43.65085089999999
+          },
+          "$$hashKey": "object:46768",
+          "address": "50 Tank House Lane, Toronto, ON M5A 3C4, Canada",
+          "geoCoded": true,
+          "locationType": [
+            {
+              "type": "marker"
+            }
+          ],
+          "locationName": "Young Centre for the Performing Arts",
+          "type": "marker"
+        }
+      ],
+      "eventEmail": "info@soulpepper.ca",
+      "dates": [
+        {
+          "$$hashKey": "object:46830",
+          "startDateTime": "2018-05-14T23:30:00.000Z",
+          "endDateTime": null
+        },
+        {
+          "$$hashKey": "object:46831",
+          "startDateTime": "2018-05-15T23:30:00.000Z",
+          "description": ""
+        },
+        {
+          "$$hashKey": "object:46832",
+          "startDateTime": "2018-05-18T23:30:00.000Z",
+          "description": ""
+        },
+        {
+          "$$hashKey": "object:46833",
+          "startDateTime": "2018-05-19T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:46834",
+          "startDateTime": "2018-05-23T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:46835",
+          "startDateTime": "2018-05-26T17:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:46836",
+          "startDateTime": "2018-05-30T17:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:46837",
+          "startDateTime": "2018-05-30T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:46838",
+          "startDateTime": "2018-06-02T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:46839",
+          "startDateTime": "2018-06-06T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:46840",
+          "startDateTime": "2018-06-09T17:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:46841",
+          "startDateTime": "2018-06-09T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:46842",
+          "startDateTime": "2018-06-13T17:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:46843",
+          "startDateTime": "2018-06-15T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:46844",
+          "startDateTime": "2018-06-20T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:46845",
+          "startDateTime": "2018-06-23T17:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:46846",
+          "startDateTime": "2018-06-23T23:30:00.000Z"
+        }
+      ],
+      "description": "It&#8217;s 1959 in a small Ontario town with summer vacation on the horizon.  And then a girl goes missing. Innocence Lost is a riveting take on the Steven Truscott criminal case that rocked the country for decades, and scarred a generation forever.",
+      "orgEmail": "info@soulpepper.ca",
+      "otherCostInfo": "Student Tickets: $25 - $37. Adult Tickets $35 - $95",
+      "features": {
+        "Bike Racks": true,
+        "Paid Parking": true,
+        "Onsite Food and Beverages": true,
+        "Public Washrooms": true
+      },
+      "categoryString": "Live Performances,Theatre",
+      "themeString": "",
+      "isWidgetEvent": false,
+      "accessibility": "full",
+      "partnerName": "Soulpepper",
+      "theme": [],
+      "image": {
+        "fileSize": 56255,
+        "fileType": "image/jpeg",
+        "binId": "8_bsMf3bu9lMfUCrK4LMsQ",
+        "fileName": "innocenceLost_CityHall.jpg",
+        "altText": "Illustration of Innocence Lost",
+        "credit": "Paul Blow",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/innocenceLost_CityHall_8_bsMf3bu9lMfUCrK4LMsQ.jpg"
+      },
+      "reservationsRequired": "Yes",
+      "recId": "WnfDsQtmo77f5RMA8wRXdg",
+      "orgName": "Soulpepper",
+      "cost": {
+        "student": null,
+        "adult": null
+      },
+      "eventPhone": "4168668666",
+      "category": [
+        {
+          "name": "Live Performances"
+        },
+        {
+          "name": "Theatre"
+        }
+      ],
+      "shortDescription": "It&#8217;s 1959 in a small Ontario town with summer vacation on the horizon. And then a girl goes missing. Innocence Lost is a riveting take on the Steven Truscott criminal case that rocked the country for decades, and scarred a generation forever.",
+      "admin": {
+        "reviewerComments": "MS 071817",
+        "updateTimestamp": "2017-07-18T20:20:15.874Z",
+        "newsletterCategory": [
+          {
+            "value": "Performing Arts"
+          }
+        ],
+        "includeInNewsletter": true,
+        "newsletterSubcategory": [],
+        "featuredEvent": "false",
+        "approvedTimestamp": "2017-07-18T20:20:15.878Z",
+        "approvedBy": "msilver2",
+        "updatedBy": "msilver2"
+      },
+      "contactName": "Ella Batten",
+      "freeEvent": "No",
+      "eventName": "Innocence Lost"
+    }
+  },
+  {
+    "calEvent": {
+      "orgType": "Non-Profit",
+      "startDate": "2018-05-04T04:00:00.000Z",
+      "thumbImage": {
+        "fileSize": 24850,
+        "fileType": "image/png",
+        "binId": "a8RTYXwDlvjLv03ZpUb3DA",
+        "fileName": "MaRainey_CityHall_th.png",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/MaRainey_CityHall_th_a8RTYXwDlvjLv03ZpUb3DA.png"
+      },
+      "timeInfo": "",
+      "orgAddress": "50 Tank House Lane",
+      "terms": "agree",
+      "endDate": "2018-06-02T04:00:00.000Z",
+      "frequency": "dates",
+      "partnerType": "producedby",
+      "eventWebsite": "https://soulpepper.ca/performances/ma-rainey-s-black-bottom/4091",
+      "orgPhone": "4168668666",
+      "locations": [
+        {
+          "id": "9ab19161-8a1f-171f-2eea-dcb47151feb4",
+          "coords": {
+            "lng": -79.3574587,
+            "lat": 43.65085089999999
+          },
+          "$$hashKey": "object:92334",
+          "address": "50 Tank House Lane, Toronto, ON M5A 3C4, Canada",
+          "geoCoded": true,
+          "locationType": [
+            {
+              "type": "marker"
+            }
+          ],
+          "locationName": "Young Centre for the Performing Arts",
+          "type": "marker"
+        }
+      ],
+      "eventEmail": "info@soulpepper.ca",
+      "dates": [
+        {
+          "$$hashKey": "object:92396",
+          "startDateTime": "2018-05-05T00:00:00.000Z",
+          "endDateTime": null
+        },
+        {
+          "$$hashKey": "object:92397",
+          "startDateTime": "2018-05-06T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92398",
+          "startDateTime": "2018-05-08T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92399",
+          "startDateTime": "2018-05-09T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92400",
+          "startDateTime": "2018-05-10T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92401",
+          "startDateTime": "2018-05-12T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92402",
+          "startDateTime": "2018-05-12T18:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92403",
+          "startDateTime": "2018-05-13T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92404",
+          "startDateTime": "2018-05-15T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92405",
+          "startDateTime": "2018-05-16T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92406",
+          "startDateTime": "2018-05-16T18:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92407",
+          "startDateTime": "2018-05-17T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92408",
+          "startDateTime": "2018-05-18T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92409",
+          "startDateTime": "2018-05-19T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92410",
+          "startDateTime": "2018-05-19T18:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92411",
+          "startDateTime": "2018-05-20T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92412",
+          "startDateTime": "2018-05-22T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92413",
+          "startDateTime": "2018-05-23T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92414",
+          "startDateTime": "2018-05-23T18:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92415",
+          "startDateTime": "2018-05-24T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92416",
+          "startDateTime": "2018-05-26T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92417",
+          "startDateTime": "2018-05-26T18:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92418",
+          "startDateTime": "2018-05-27T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92419",
+          "startDateTime": "2018-05-29T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92420",
+          "startDateTime": "2018-05-30T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92421",
+          "startDateTime": "2018-05-30T18:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92422",
+          "startDateTime": "2018-05-31T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92423",
+          "startDateTime": "2018-06-01T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92424",
+          "startDateTime": "2018-06-02T00:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92425",
+          "startDateTime": "2018-06-02T18:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:92426",
+          "startDateTime": "2018-06-03T00:00:00.000Z"
+        }
+      ],
+      "description": "Chicago in the 1920s is a city on a collision course with change - and through it all plays the Blues. In August Wilson&#8217;s masterpiece a routine music recording session becomes the front line for issues of race, power, and opportunity.",
+      "orgEmail": "info@soulpepper.ca",
+      "otherCostInfo": "Student Tickets: $25 - $37&#10;Adult Tickets $35 - $95",
+      "features": {
+        "Bike Racks": true,
+        "Paid Parking": true,
+        "Onsite Food and Beverages": true,
+        "Free Parking": false,
+        "Public Washrooms": true
+      },
+      "categoryString": "Live Performances,Theatre",
+      "themeString": "",
+      "isWidgetEvent": false,
+      "accessibility": "full",
+      "partnerName": "Soulpepper",
+      "theme": [],
+      "image": {
+        "fileSize": 41930,
+        "fileType": "image/jpeg",
+        "binId": "DeVXATgdcCyirmu8GqK1HA",
+        "fileName": "MaRainey_CityHall.jpg",
+        "altText": "Illustration for Ma Rainey's Black Bottom",
+        "credit": "Paul Blow",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/MaRainey_CityHall_DeVXATgdcCyirmu8GqK1HA.jpg"
+      },
+      "reservationsRequired": "Yes",
+      "recId": "EFu2ve5cghYajGZxRdgcxw",
+      "orgName": "Soulpepper",
+      "cost": {
+        "student": 25,
+        "adult": 80
+      },
+      "eventPhone": "4168668666",
+      "category": [
+        {
+          "name": "Live Performances"
+        },
+        {
+          "name": "Theatre"
+        }
+      ],
+      "shortDescription": "Chicago in the 1920s is a city on a collision course with change - and through it all plays the Blues. In August Wilson&#8217;s masterpiece a routine music recording session becomes the front line for issues of race, power, and opportunity.",
+      "admin": {
+        "reviewerComments": "MS072917",
+        "updateTimestamp": "2017-07-29T18:32:24.221Z",
+        "newsletterCategory": [
+          {
+            "value": "Performing Arts"
+          }
+        ],
+        "includeInNewsletter": true,
+        "newsletterSubcategory": [],
+        "featuredEvent": "false",
+        "approvedTimestamp": "2017-07-29T18:32:24.224Z",
+        "approvedBy": "msilver2",
+        "updatedBy": "msilver2"
+      },
+      "contactName": "Ella Batten",
+      "freeEvent": "No",
+      "eventName": "Ma Rainey's Black Bottom"
+    }
+  },
+  {
+    "calEvent": {
+      "orgType": "Non-Profit",
+      "startDate": "2018-01-13T06:00:00.000Z",
+      "thumbImage": {
+        "fileSize": 24002,
+        "fileType": "image/png",
+        "binId": "MpzKABlHmfDyOXXoFHfrmQ",
+        "fileName": "ADelicateBalance_CityHall_th.png",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/ADelicateBalance_CityHall_th_MpzKABlHmfDyOXXoFHfrmQ.png"
+      },
+      "timeInfo": "",
+      "orgAddress": "50 Tank House Lane",
+      "terms": "agree",
+      "endDate": "2018-02-10T06:00:00.000Z",
+      "frequency": "dates",
+      "partnerType": "producedby",
+      "eventWebsite": "https://soulpepper.ca/performances/a-delicate-balance/4088",
+      "orgPhone": "4168668666",
+      "locations": [
+        {
+          "id": "7dc0d51e-1b51-3857-254e-b53d201a946d",
+          "coords": {
+            "lng": -79.3574587,
+            "lat": 43.65085089999999
+          },
+          "$$hashKey": "object:157241",
+          "address": "50 Tank House Lane, Toronto, ON M5A 3C4, Canada",
+          "geoCoded": true,
+          "locationType": [
+            {
+              "type": "marker"
+            }
+          ],
+          "locationName": "Young Centre for the Performing Arts",
+          "type": "marker"
+        }
+      ],
+      "eventEmail": "info@soulpepper.ca",
+      "dates": [
+        {
+          "$$hashKey": "object:157303",
+          "startDateTime": "2018-01-14T01:00:00.000Z",
+          "endDateTime": null
+        },
+        {
+          "$$hashKey": "object:157304",
+          "startDateTime": "2018-01-16T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157305",
+          "startDateTime": "2018-01-17T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157306",
+          "startDateTime": "2018-01-18T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157307",
+          "startDateTime": "2018-01-20T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157308",
+          "startDateTime": "2018-01-21T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157309",
+          "startDateTime": "2018-01-24T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157310",
+          "startDateTime": "2018-01-25T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157311",
+          "startDateTime": "2018-01-26T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157312",
+          "startDateTime": "2018-01-27T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157313",
+          "startDateTime": "2018-01-27T19:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157314",
+          "startDateTime": "2018-01-28T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157315",
+          "startDateTime": "2018-01-31T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157316",
+          "startDateTime": "2018-01-31T19:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157317",
+          "startDateTime": "2018-02-01T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157318",
+          "startDateTime": "2018-02-02T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157319",
+          "startDateTime": "2018-02-03T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157320",
+          "startDateTime": "2018-02-04T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157321",
+          "startDateTime": "2018-02-07T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157322",
+          "startDateTime": "2018-02-08T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157323",
+          "startDateTime": "2018-02-09T01:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157324",
+          "startDateTime": "2018-02-10T01:00:00.000Z",
+          "description": ""
+        },
+        {
+          "$$hashKey": "object:157325",
+          "startDateTime": "2018-02-10T19:00:00.000Z"
+        },
+        {
+          "$$hashKey": "object:157326",
+          "startDateTime": "2018-02-11T01:00:00.000Z"
+        }
+      ],
+      "description": "In all things &#8211; friendship, intimacy, civility &#8211; there is a balance that must be carefully maintained to avert disaster. When a daughter returns home and friends move in, Albee shows how easy it is to tip the scales.",
+      "orgEmail": "info@soulpepper.ca",
+      "otherCostInfo": "Student Tickets: $25 - $37. Adult Tickets $35 - $95",
+      "features": {
+        "Bike Racks": true,
+        "Paid Parking": true,
+        "Onsite Food and Beverages": true,
+        "Public Washrooms": true
+      },
+      "categoryString": "Live Performances,Theatre",
+      "themeString": "",
+      "isWidgetEvent": false,
+      "accessibility": "full",
+      "partnerName": "Soulpepper",
+      "theme": [],
+      "image": {
+        "fileSize": 47779,
+        "fileType": "image/jpeg",
+        "binId": "PxOY3Q1Z8Jc6Kz1scrqRRQ",
+        "fileName": "ADelicateBalance_CityHall.jpg",
+        "altText": "Illustration of A Delicate Balance",
+        "credit": "Paul Blow",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/ADelicateBalance_CityHall_PxOY3Q1Z8Jc6Kz1scrqRRQ.jpg"
+      },
+      "reservationsRequired": "Yes",
+      "recId": "C5z7TVX4d8Azo5pRfgVbHA",
+      "orgName": "Soulpepper",
+      "cost": {
+        "student": null,
+        "adult": null
+      },
+      "eventPhone": "4168668666",
+      "category": [
+        {
+          "name": "Live Performances"
+        },
+        {
+          "name": "Theatre"
+        }
+      ],
+      "shortDescription": "In all things &#8211; friendship, intimacy, civility &#8211; there is a balance that must be carefully maintained to avert disaster. When a daughter returns home and friends move in, Albee shows how easy it is to tip the scales.",
+      "admin": {
+        "reviewerComments": "MS 071817",
+        "updateTimestamp": "2017-07-18T20:59:14.519Z",
+        "newsletterCategory": [
+          {
+            "value": "Performing Arts"
+          }
+        ],
+        "includeInNewsletter": true,
+        "newsletterSubcategory": [],
+        "featuredEvent": "false",
+        "approvedTimestamp": "2017-07-18T20:59:14.533Z",
+        "approvedBy": "msilver2",
+        "updatedBy": "msilver2"
+      },
+      "contactName": "Ella Batten",
+      "freeEvent": "No",
+      "eventName": "A Delicate Balance"
+    }
+  },
+  {
+    "calEvent": {
+      "orgType": "Non-Profit",
+      "startDate": "2018-05-16T04:00:00.000Z",
+      "thumbImage": {
+        "fileSize": 18977,
+        "fileType": "image/png",
+        "binId": "Bj__0LfIlGQZo1buXuY5lQ",
+        "fileName": "AChorusOfDisapproval_CityHa_th.png",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/AChorusOfDisapproval_CityHa_th_Bj__0LfIlGQZo1buXuY5lQ.png"
+      },
+      "timeInfo": "",
+      "orgAddress": "50 Tank House Lane",
+      "terms": "agree",
+      "endDate": "2018-06-22T04:00:00.000Z",
+      "frequency": "dates",
+      "partnerType": "producedby",
+      "eventWebsite": "https://soulpepper.ca/performances/a-chorus-of-disapproval/4092",
+      "orgPhone": "4168668666",
+      "locations": [
+        {
+          "id": "604afe52-44d0-767a-1222-fb62b1c7c8d1",
+          "coords": {
+            "lng": -79.3574587,
+            "lat": 43.65085089999999
+          },
+          "$$hashKey": "object:300118",
+          "address": "50 Tank House Lane, Toronto, ON M5A 3C4, Canada",
+          "geoCoded": true,
+          "locationType": [
+            {
+              "type": "marker"
+            }
+          ],
+          "locationName": "Young Centre for the Performing Arts",
+          "type": "marker"
+        }
+      ],
+      "eventEmail": "info@soulpepper.ca",
+      "dates": [
+        {
+          "$$hashKey": "object:300180",
+          "startDateTime": "2018-05-16T23:30:00.000Z",
+          "endDateTime": null
+        },
+        {
+          "$$hashKey": "object:300181",
+          "startDateTime": "2018-05-17T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300182",
+          "startDateTime": "2018-05-21T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300183",
+          "startDateTime": "2018-05-22T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300184",
+          "startDateTime": "2018-05-25T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300185",
+          "startDateTime": "2018-05-26T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300186",
+          "startDateTime": "2018-05-28T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300187",
+          "startDateTime": "2018-05-31T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300188",
+          "startDateTime": "2018-06-01T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300189",
+          "startDateTime": "2018-06-02T17:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300190",
+          "startDateTime": "2018-06-04T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300191",
+          "startDateTime": "2018-06-05T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300192",
+          "startDateTime": "2018-06-06T17:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300193",
+          "startDateTime": "2018-06-07T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300194",
+          "startDateTime": "2018-06-08T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300195",
+          "startDateTime": "2018-06-12T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300196",
+          "startDateTime": "2018-06-13T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300197",
+          "startDateTime": "2018-06-14T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300198",
+          "startDateTime": "2018-06-16T17:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300199",
+          "startDateTime": "2018-06-16T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300200",
+          "startDateTime": "2018-06-19T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300201",
+          "startDateTime": "2018-06-20T17:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300202",
+          "startDateTime": "2018-06-21T23:30:00.000Z"
+        },
+        {
+          "$$hashKey": "object:300203",
+          "startDateTime": "2018-06-22T23:30:00.000Z"
+        }
+      ],
+      "description": "The intrigues of an amateur theatre company spill from the stage to the pub, as an aspiring actor moves through the ranks of both The Beggar&#8217;s Opera, and the show&#8217;s assorted players. In his trademark style, Ayckbourn delivers a deeply funny dramatic comedy about deception, ambition, and sexual conquest.",
+      "orgEmail": "info@soulpepper.ca",
+      "otherCostInfo": "Student Tickets: $25 - $37&#10;Adult Tickets $35 - $95",
+      "features": {
+        "Bike Racks": true,
+        "Paid Parking": true,
+        "Onsite Food and Beverages": true,
+        "Public Washrooms": true
+      },
+      "categoryString": "Live Performances,Theatre",
+      "themeString": "",
+      "isWidgetEvent": false,
+      "accessibility": "full",
+      "partnerName": "Soulpepper",
+      "theme": [],
+      "image": {
+        "fileSize": 35479,
+        "fileType": "image/jpeg",
+        "binId": "-fBEkiI1Kv-Tv8ebeS7nvQ",
+        "fileName": "AChorusOfDisapproval_CityHa.jpg",
+        "altText": "Illustration of A Chorus of Disapproval",
+        "credit": "Paul Blow",
+        "url": "/webapps/CC/fileAPI/edc_eventcal/AChorusOfDisapproval_CityHa_-fBEkiI1Kv-Tv8ebeS7nvQ.jpg"
+      },
+      "reservationsRequired": "Yes",
+      "recId": "mnylPn3lKeMfBQD$OTVttg",
+      "orgName": "Soulpepper",
+      "cost": {
+        "student": 25,
+        "adult": 80
+      },
+      "eventPhone": "4168668666",
+      "category": [
+        {
+          "name": "Live Performances"
+        },
+        {
+          "name": "Theatre"
+        }
+      ],
+      "admin": {
+        "reviewerComments": "MS 072917",
+        "updateTimestamp": "2017-07-29T16:44:08.404Z",
+        "newsletterCategory": [],
+        "includeInNewsletter": false,
+        "newsletterSubcategory": [],
+        "featuredEvent": "false",
+        "approvedTimestamp": "2017-07-29T16:44:08.405Z",
+        "approvedBy": "msilver2",
+        "updatedBy": "msilver2"
+      },
+      "contactName": "Ella Batten",
+      "freeEvent": "No",
+      "eventName": "A Chorus of Disapproval"
+    }
+  }
+]

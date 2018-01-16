@@ -1,0 +1,21 @@
+{
+  "auth":{
+    "darksky":"apikey"
+  },
+  "transit": {
+    "routes": [
+      {
+        "number":"123",
+        "stop": "1111"
+      },
+      {
+        "number":"321",
+        "stop": "1111"
+      }
+    ]
+  },
+  "weather": {
+    "latitude":"",
+    "longitude":""
+  }
+}
