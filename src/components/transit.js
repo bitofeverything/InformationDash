@@ -29,6 +29,22 @@ class Transit extends Component {
       });
     })
 
+    this.nextBuses = setInterval(() => {
+
+    Object.keys(this.state.routes).forEach(r => {
+      const route = this.state.routes[r]
+      fetch(`http://webservices.nextbus.com/service/publicJSONFeed?command=predictions&a=ttc&r=${route.number}&s=${route.stop}`).then((resp) => resp.json()).then((json) => {
+        route.predictions = json.predictions
+        this.setState({
+          routes: {
+            ...this.state.routes
+          },
+          timeSinceUpdate: 0
+        });
+      });
+    });
+  }, 30000);
+
     this.updateClock = setInterval(() => {
       this.setState({
         'timeSinceUpdate': this.state.timeSinceUpdate + 1

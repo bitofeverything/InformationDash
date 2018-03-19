@@ -8,23 +8,22 @@ class NearEvents extends Component{
   constructor(props){
     super(props)
     // this.state = {events:[], showModal:false, selectedEvent:{}}
-    this.state = {events:data, showModal:false, selectedEvent:{}}
+    this.state = {events:[], showModal:false, selectedEvent:{}}
   }
 
   componentWillMount(){
-    // const evtData = fetch('https://cors-anywhere.herokuapp.com/http://app.toronto.ca/cc_sr_v1_app/data/edc_eventcal_APR?limit=20');
-    // evtData.then(resp => {
-    //   return resp.json()
-    // })
-    // .then(jbody => {
-    //   this.setState({events:jbody})
-    // })
-    // .catch(e => console.error(e))
+    const evtData = fetch('https://cors-anywhere.herokuapp.com/http://app.toronto.ca/cc_sr_v1_app/data/edc_eventcal_APR?limit=20');
+    evtData.then(resp => {
+      return resp.json()
+    })
+    .then(jbody => {
+      this.setState({events:jbody})
+    })
+    .catch(e => console.error(e))
   }
 
   eventClick(event){
     this.setState({selectedEvent:event})
-
   }
 
   renderEvents(events){
