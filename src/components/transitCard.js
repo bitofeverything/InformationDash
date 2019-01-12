@@ -14,8 +14,38 @@ const innerStyles = {
 }
 
 class TransitCard extends Component{
-  render(){
 
+  renderPredictions(){
+    const {timeSinceUpdate, predictions} = this.props;
+    // console.log(predictions.direction)
+    // console.log(? "yes":"no" )
+    const directions = {"prediction":[]}
+    if(Array.isArray(predictions.direction)){
+      directions.prediction = [...predictions.direction.map(e=>[...e.prediction])]
+    }else{
+      directions.prediction = predictions.direction.prediction
+    }
+
+      // const directionCollapse = predictions.direction.length>1?:predictions.direction
+      // console.log(directionCollapse)
+      const callLen = directions.prediction?directions.prediction.length:0
+      //
+      // const predict = callLen>1?directionCollapse.prediction:[directionCollapse.prediction]
+      //
+      console.log(directions)
+      return directions.prediction.filter((item)=>{
+        const seconds = parseInt(item.seconds, 0) - timeSinceUpdate;
+
+        return seconds > 0
+      }).slice(0,3).map((info, idx)=>{
+        const seconds=parseInt(info.seconds, 0) - timeSinceUpdate;
+        const presentation = timeFormat(seconds);
+
+        return (<li key={idx}>{presentation}</li>)
+      })
+  }
+
+  render(){
     const {timeSinceUpdate, predictions} = this.props;
 
     if(predictions){
@@ -27,16 +57,7 @@ class TransitCard extends Component{
           { !predictions ?'Loading':(
           <CardContent>
             <ul>
-              {  predictions.direction ? predictions.direction.prediction.filter((item)=>{
-                const seconds = parseInt(item.seconds, 0) - timeSinceUpdate;
-
-                return seconds > 0
-              }).slice(0,3).map((info, idx)=>{
-                const seconds=parseInt(info.seconds, 0) - timeSinceUpdate;
-                const presentation = timeFormat(seconds);
-
-                return (<li key={idx}>{presentation}</li>)
-              }):'No routes at this time'
+              {  predictions.direction ? this.renderPredictions():'No routes at this time'
             }
             </ul>
           </CardContent>)}

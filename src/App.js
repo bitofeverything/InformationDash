@@ -17,13 +17,11 @@ class App extends Component {
       <MuiThemeProvider theme={theme}>
         <div className="container">
         <div className='section size-1'>
-          <div className='module size-1'><Weather {...config}/></div>
-          <div className='module size-2'><TodoList {...config}/></div>
-          <div className='module size-1'><Time {...config}/></div>
-
+          <div className='module size-1'><TodoList {...config}/></div>
+          <div className='module size-3'><Time {...config}/></div>
         </div>
         <div className='section size-1'>
-          <div className='module size-1' ><Traffic {...config} /></div>
+          <div className='module size-2'><Weather {...config}/></div>
           <div className='module size-4'><NearEvents {...config} /></div>
         </div>
         <div className='section size-2'>

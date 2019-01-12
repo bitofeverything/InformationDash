@@ -9,16 +9,23 @@ class Weather extends Component{
     this.state = {
       weather: data
     }
+    this.updateWeather = this.updateWeather.bind(this)
   }
-  componentWillMount(){
-    // const url = 'https://api.darksky.net/forecast/'+ config.auth.darksky+ '/'+ config.weather.latitude +','+ config.weather.longitude +'?units=ca'
-    // console.log(url)
-    // this.weatherUpdate = setInterval(() => {
-      // fetch(url).then((r) => r.json()).then((j)=>{
 
-      // });
-    // }, 600000);
-  }
+  updateWeather() {
+    const url = 'https://cors-anywhere.herokuapp.com/https://api.darksky.net/forecast/'+ config.auth.darksky+ '/'+ config.weather.latitude +','+ config.weather.longitude +'?units=ca'
+    console.log(url)
+      fetch(url).then((r) => r.json()).then((j)=>{
+        this.setState({weather:j})
+      });
+    }
+
+  // componentWillMount(){
+  //
+  //   this.weatherUpdate = setInterval(this.updateWeather()
+  //   , 600000);
+  //
+  // }
 
   componentWillUnmount(){
     clearInterval(this.weatherUpdate)
@@ -27,6 +34,18 @@ class Weather extends Component{
   render(){
     const {weather} = this.state
 
+    if(weather === null){
+      return(
+        <Card  className='component'>
+          <CardContent>
+            <Typography type="title">
+              Weather Loading
+            </Typography>
+          </CardContent>
+        </Card>
+      )
+    }
+    else{
     return (
       <Card  className='component'>
         <CardContent>
@@ -39,6 +58,7 @@ class Weather extends Component{
         </CardContent>
       </Card>
     )
+  }
   }
 }
 
