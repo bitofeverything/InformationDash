@@ -1,13 +1,15 @@
 import React, { Component } from 'react';
 import { Card, Typography, CardContent } from 'material-ui-next';
 import config from '../config.json'
-import data from '../weather.json'
+//import data from '../weather.json'
 
 class Weather extends Component{
   constructor(props) {
     super(props);
     this.state = {
-      weather: data
+      weather: {},
+    loading: true,
+    loaded: false
     }
     this.updateWeather = this.updateWeather.bind(this)
   }
@@ -32,7 +34,7 @@ class Weather extends Component{
   }
 
   render(){
-    const {weather} = this.state
+    const {weather, loading, loaded} = this.state
 
     if(weather === null){
       return(
@@ -52,9 +54,18 @@ class Weather extends Component{
           <Typography type="title">
             Current Weather
           </Typography>
-          <Typography type="display1" align="center">
+	    
+	    { loading && !loaded ? 
+		    (<Typography type="display1" align="center">
+		    	Loading
+		    </Typography>)
+		:
+		    (<Typography type="display1" align="center">
             {Math.round(weather.currently.temperature)}<sup>o</sup>
-          </Typography>
+          </Typography>)
+	    }
+
+
         </CardContent>
       </Card>
     )
