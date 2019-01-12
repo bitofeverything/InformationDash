@@ -43,7 +43,7 @@ class Transit extends Component {
         });
       });
     });
-  }, 30000);
+  }, 60000);
 
     this.updateClock = setInterval(() => {
       this.setState({

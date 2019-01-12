@@ -27,7 +27,9 @@ class TransitCard extends Component{
           { !predictions ?'Loading':(
           <CardContent>
             <ul>
-              {  predictions.direction ? predictions.direction.prediction.filter((item)=>{
+              {  predictions.direction ? 
+		predictions.direction.prediction ?
+		      predictions.direction.prediction.filter((item)=>{
                 const seconds = parseInt(item.seconds, 0) - timeSinceUpdate;
 
                 return seconds > 0
@@ -36,7 +38,7 @@ class TransitCard extends Component{
                 const presentation = timeFormat(seconds);
 
                 return (<li key={idx}>{presentation}</li>)
-              }):'No routes at this time'
+              }):'No route predictions':'No routes at this time'
             }
             </ul>
           </CardContent>)}
