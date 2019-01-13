@@ -9,7 +9,8 @@ class Weather extends Component{
     this.state = {
       weather: {},
     loading: true,
-    loaded: false
+    loaded: false,
+    error: false
     }
     this.updateWeather = this.updateWeather.bind(this)
   }
@@ -17,17 +18,22 @@ class Weather extends Component{
   updateWeather() {
     const url = 'https://cors-anywhere.herokuapp.com/https://api.darksky.net/forecast/'+ config.auth.darksky+ '/'+ config.weather.latitude +','+ config.weather.longitude +'?units=ca'
     console.log(url)
-      fetch(url).then((r) => r.json()).then((j)=>{
-        this.setState({weather:j})
-      });
+      fetch(url).then((r) => r.json())
+                .then(
+                  (j)=>{
+                    this.setState({weather:j, loaded:true, loading:false, error:false})
+                  })
+                .catch(() => {
+                  this.setState({error:true})
+                });
     }
 
-  // componentWillMount(){
-  //
-  //   this.weatherUpdate = setInterval(this.updateWeather()
-  //   , 600000);
-  //
-  // }
+  componentWillMount(){
+
+    this.weatherUpdate = setInterval(this.updateWeather()
+    , 600000);
+
+  }
 
   componentWillUnmount(){
     clearInterval(this.weatherUpdate)
@@ -54,8 +60,8 @@ class Weather extends Component{
           <Typography type="title">
             Current Weather
           </Typography>
-	    
-	    { loading && !loaded ? 
+
+	    { loading && !loaded ?
 		    (<Typography type="display1" align="center">
 		    	Loading
 		    </Typography>)

@@ -21,9 +21,13 @@ class TransitCard extends Component{
     // console.log(? "yes":"no" )
     const directions = {"prediction":[]}
     if(Array.isArray(predictions.direction)){
-      directions.prediction = [...predictions.direction.map(e=>[...e.prediction])]
+
+      directions.prediction = []
+      predictions.direction.forEach(e=> directions.prediction.push(...e.prediction) )
+
     }else{
       directions.prediction = predictions.direction.prediction
+
     }
 
       // const directionCollapse = predictions.direction.length>1?:predictions.direction
@@ -32,7 +36,7 @@ class TransitCard extends Component{
       //
       // const predict = callLen>1?directionCollapse.prediction:[directionCollapse.prediction]
       //
-      console.log(directions)
+      
       return directions.prediction.filter((item)=>{
         const seconds = parseInt(item.seconds, 0) - timeSinceUpdate;
 
