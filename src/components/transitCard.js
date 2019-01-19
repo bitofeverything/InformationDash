@@ -15,38 +15,55 @@ const innerStyles = {
 
 class TransitCard extends Component{
 
-  renderPredictions(){
+  renderPredictions() {
     const {timeSinceUpdate, predictions} = this.props;
     // console.log(predictions.direction)
     // console.log(? "yes":"no" )
-    const directions = {"prediction":[]}
-    if(Array.isArray(predictions.direction)){
+    const directions = {
+      "prediction": []
+    }
+    if (Array.isArray(predictions.direction)) {
 
-      directions.prediction = []
-      predictions.direction.forEach(e=> directions.prediction.push(...e.prediction) )
+      predictions.direction.forEach(e => directions.prediction.push(...e.prediction))
 
-    }else{
+
+    } else {
       directions.prediction = predictions.direction.prediction
-
     }
 
-      // const directionCollapse = predictions.direction.length>1?:predictions.direction
-      // console.log(directionCollapse)
-      const callLen = directions.prediction?directions.prediction.length:0
-      //
-      // const predict = callLen>1?directionCollapse.prediction:[directionCollapse.prediction]
-      //
-      
-      return directions.prediction.filter((item)=>{
+    // const directionCollapse = predictions.direction.length>1?:predictions.direction
+    // console.log(directionCollapse)
+    const callLen = directions.prediction
+      ? directions.prediction.length
+      : 0
+    //
+    // const predict = callLen>1?directionCollapse.prediction:[directionCollapse.prediction]
+    //
+
+    // console.log(typeof directions.prediction)
+    // console.log(typeof directions.prediction === 'object')
+    // console.log(directions.prediction)
+
+    if (Array.isArray(directions.prediction)) {
+
+      return directions.prediction.filter((item) => {
         const seconds = parseInt(item.seconds, 0) - timeSinceUpdate;
 
         return seconds > 0
-      }).slice(0,3).map((info, idx)=>{
-        const seconds=parseInt(info.seconds, 0) - timeSinceUpdate;
+      }).slice(0, 3).map((info, idx) => {
+        const seconds = parseInt(info.seconds, 0) - timeSinceUpdate;
         const presentation = timeFormat(seconds);
 
         return (<li key={idx}>{presentation}</li>)
       })
+    } else if(typeof directions.prediction === 'object') {
+      const seconds = parseInt( directions.prediction.seconds, 0) - timeSinceUpdate;
+      const presentation = timeFormat(seconds);
+      return (<li key={directions.prediction.stopTag}>{presentation}</li>)
+    }
+    else{
+      return (<li key="NotRunning">No Predictions At This Time</li>)
+    }
   }
 
   render(){
